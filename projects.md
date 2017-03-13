@@ -30,6 +30,7 @@ Monday, March 13
 <div class="sidebar_end"></div>
 
 `This page is still being migrated and developed.`
+
 `Information here is likely suggestive of the final page, but remains subject to change.`
 
 # Project Theme

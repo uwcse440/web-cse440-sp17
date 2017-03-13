@@ -27,6 +27,7 @@ link_project_3g: https://canvas.uw.edu/courses/1098203/assignments/3589492
 ---
 
 `This page is still being migrated and developed.`
+
 `Information here is likely suggestive of the final page, but remains subject to change.`
 
 # Overview

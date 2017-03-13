@@ -35,6 +35,7 @@ link_project_2i: https://canvas.uw.edu/courses/1098203/assignments/3577784
 ---
 
 `This page is still being migrated and developed.`
+
 `Information here is likely suggestive of the final page, but remains subject to change.`
 
 # Overview
