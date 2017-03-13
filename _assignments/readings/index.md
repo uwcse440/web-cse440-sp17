@@ -37,6 +37,9 @@ due_reading_patterns: Uploaded Friday, February 24, 2017
 #date_reading_research: Friday, December 4, 2015
 ---
 
+`This page is still being migrated and developed.`
+`Information here is likely suggestive of the final page, but remains subject to change.`
+
 # Overview
 
 Assigned readings are worth __5%__ of your overall course grade. 

@@ -6,6 +6,9 @@ link_assignment_0: https://canvas.uw.edu/courses/1098203/assignments/3522037
 date_assignment_0: January 10, 2017
 ---
 
+`This page is still being migrated and developed.`
+`Information here is likely suggestive of the final page, but remains subject to change.`
+
 # Overview
 
 Submit an informal slide that will help us as we get to know you:

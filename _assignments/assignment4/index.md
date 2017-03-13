@@ -21,6 +21,9 @@ due_project_4f: Attend 11:00 to 12:20, Monday, March 13, 2017
 
 ---
 
+`This page is still being migrated and developed.`
+`Information here is likely suggestive of the final page, but remains subject to change.`
+
 # Overview
 
 You have identified a problem, explored a design space, selected a promising design, and iterated on that design.

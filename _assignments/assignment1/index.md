@@ -13,6 +13,9 @@ link_project_1c_projects: https://canvas.uw.edu/courses/1098203/discussion_topic
 link_project_1c_bids: https://goo.gl/forms/zMHvrB3HfbfT6J0x1
 ---
 
+`This page is still being migrated and developed.`
+`Information here is likely suggestive of the final page, but remains subject to change.`
+
 # Overview
 
 You are to propose a __problem__ and an __approach__ that could form the basis of a project for this course.

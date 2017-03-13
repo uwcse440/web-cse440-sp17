@@ -34,6 +34,9 @@ link_project_2i: https://canvas.uw.edu/courses/1098203/assignments/3577784
 
 ---
 
+`This page is still being migrated and developed.`
+`Information here is likely suggestive of the final page, but remains subject to change.`
+
 # Overview
 
 Even for a well-understood, well-motivated problem, choosing a design to invest time into is a difficult and laborious process. 
