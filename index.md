@@ -196,7 +196,7 @@ The course staff has a large number of submissions to manage, so format and comp
 
 This course website lives on GitHub:
 
-<https://github.com/uwcse440/web-cse440-wi17>
+<https://github.com/uwcse440/web-cse440-sp17>
 
 You can submit pull requests to update the webpage, and you will publish project webpages via pull request.
 
