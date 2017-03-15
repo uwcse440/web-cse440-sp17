@@ -12,7 +12,7 @@ title: Course Overview
 This course provides an introduction to human-computer interaction and the design process.
 Students will learn methods and skills for designing and prototyping interactive systems.
 The course covers a design process from the initial formulation of a design problem to creation of digital prototypes.
-Course structure is a mix of lectures, classroom activities, and design critiques by peers and course staff.
+The class structure is a mix of lectures, classroom activities, and design critiques by peers and course staff.
 The course is overwhelmingly organized around a group project, in which students:
 
 - Ideate and Propose Design Problems
@@ -31,36 +31,26 @@ The course is overwhelmingly organized around a group project, in which students
 
 # Project Theme
 
-People have long sought to better understand themselves, but recently technology advances enable new approaches.
-Students will examine the problems people encounter in gathering and gaining value from personal data,
-then explore how new technology can go beyond simple data fetishes to help people in reaching their goals.
+This year’s project theme will be “Designing for diversity”! You will be encouraged to design for groups of people who are different from yourself and/or to design for inclusiveness, connecting people from different backgrounds. 
 
-Understanding and designing for self-tracking is also known as personal informatics:
+Computers and the Internet have changed many people's lives. However, many applications that we use in our daily lives are developed by Westerners and embed the developers' beliefs in what is useful and usable. 
+For example, Facebook is extremely popular in many Western countries, but has failed to attract a large user base in Russia. Facebook is also not as popular with elderly and teens as it is with people between 25 and 45 of age. Similarly, Uber and Lyft have gained much attraction with economically prosperous young professionals, but are often seen with suspicion in economically strained parts of the US. Most of these problems in designing adequate technology and gaining market share arise because designers and developers can be insufficiently aware of the beliefs, preferences, needs, and prior experiences of people who are different from themselves.
 
-> Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
-> self-reflection and gaining self-knowledge.
->
-> [Li _et al._, 2010]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf).
+Over the course of the quarter, you will work as a group on designing a system to an activity or relationship within the particular context of a group of people that is not particularly well supported by current tools. Example groups that you could design for are: 
+- Minorities 
+- Homeless
+- People with disabilities
+- People from different cultures
+- People with chronic conditions
+- Elderly
+- Local business owners
+- Workers
+- Interactions between these groups (or between yourselves and one of these groups)
 
-Self-tracking and personal informatics are closely related to the [Quantified Self](http://quantifiedself.com/) movement, which emphasizes:
+As part of your project, you will need to define what a specific group's needs are that your project tries to support and what activity you would like to design that might help address this need.
+Think about how that activity is currently supported via technology, what doesn't work about current ways of supporting it, and how your solution will do this better. 
+The specificity of addressing a particular group of people allows you to deeply think about what makes the group unique and how you would best want to support them. So, dive in and see what you can come up with! 
 
-> Self-knowledge through numbers.
->
-> [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
-
-As a focus for Winter 2017, we will ask students to explore __tracking beyond the self__.
-Instead of limiting self-tracking to a isolated self-analyst,
-we will ask students to consider how people might interact around personal data.
-Potential examples of social contexts for tracking could include:
-
-- co-located relationships (e.g., families, friends, co-workers)
-- remote relationships (e.g., families, friends, co-workers)
-- communities organizing (e.g., people in a building or neighborhood, community volunteers)
-- people seeking help from peers (e.g., social sharing, support networks)
-- people seeking help from experts (e.g., doctors)
-
-Any problem where multiple people collect data, or where multiple people engage in gaining value from data,
-introduces additional opportunities and challenges in designing for effective interaction with personal data.
 
 # Project Structure
 
@@ -90,7 +80,7 @@ A small set of readings are assigned throughout the quarter, with additional res
 
 __Contact__: Email all instructors at cse440-instr [at] cs.washington.edu
 
-__Class Time & Location__: Tuesdays & Thursdays, 10:30-11:50 GLD 322
+__Class Time & Location__: Tuesdays & Thursdays, 10:30-11:50 OUG 141
 
 __Section Times & Locations__: 
 
@@ -103,11 +93,10 @@ __Office Hours__:
 
 Scheduled hours are held most weeks, but check the calendar:
 
-- James, Tuesdays 2:30 to 3:30, CSE 666
-- Eunice, Wednesdays 1:45 to 2:45, CSE 021
-- David, Thursdays 12:00 to 1:00, CSE 021
+- Katharina, Tuesdays 1:30 to 2:30, CSE 566
+- Ravi/Tanu, Wednesdays 1:45 to 2:45, CSE 021
 
-Other meetings are by appointment.
+Other meetings are possible by appointment.
 
 __Course Staff__:
 
@@ -115,7 +104,7 @@ __Course Staff__:
   <div class="row">
     <div class="col-md-2">
       <p>James Fogarty</p>
-      <p><img src="{{ site.baseurl }}/images/james_photo.jpg" width="150" alt="James Fogarty"/></p>
+      <p><img src="{{ site.baseurl }}/images/katharina_photo.jpg" width="150" alt="Katharina Reinecke"/></p>
     </div>
     <div class="col-md-2">
       <p>Eunice Jun</p>
