@@ -20,11 +20,11 @@ locations:
       location: "CSE Atrium"
 
   officehourskatharina:
-    - time: "TBD"
+    - time: "1:30 to 2:30"
       location: "CSE 566"
   officehoursta:
-    - time: "TBD"
-      location: "TBD"
+    - time: "1:45 to 2:45"
+      location: "CSE 021"
 
   sections_skip1030:
     - time: "11:30 - 12:20"
