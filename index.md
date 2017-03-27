@@ -56,10 +56,11 @@ The specificity of addressing a particular group of people allows you to deeply 
 
 Projects are organized around four assignments, each consisting of several milestones:
 
-- [Assignment 1 - Project Proposal]({{ site.baseurl }}/assignments/assignment1/)
-- [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/)
-- [Assignment 3 - Getting the Design Right]({{ site.baseurl }}/assignments/assignment3/)
-- [Assignment 4 - Communicating the Design]({{ site.baseurl }}/assignments/assignment4/)
+`Assignment information will be released soon.`
+<!-- - [Assignment 1 - Project Proposal]({{ site.baseurl }}/assignments/assignment1/) -->
+<!-- - [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/) -->
+<!-- - [Assignment 3 - Getting the Design Right]({{ site.baseurl }}/assignments/assignment3/) -->
+<!-- - [Assignment 4 - Communicating the Design]({{ site.baseurl }}/assignments/assignment4/) -->
 
 Sample projects from prior offerings include:
 
@@ -74,7 +75,9 @@ Be sure to understand and carefully consider project requirements and feedback f
 
 A small set of readings are assigned throughout the quarter, with additional resources also made available.
 
-- [Reading Assignments]({{ site.baseurl }}/assignments/readings/)
+<!-- - [Reading Assignments]({{ site.baseurl }}/assignments/readings/) -->
+
+`Readings information will be released soon.`
 
 # Basic Information
 
@@ -85,9 +88,9 @@ __Class Time & Location__: Tuesdays & Thursdays, 10:30-11:50 OUG 141
 __Section Times & Locations__: 
 
 - Fridays, 10:30-11:20 MGH 058
-- Fridays, 11:30-12:20 DEN 303
+- Fridays, 11:30-12:20 MGH 058
 - Fridays, 1:30-2:20 MGH 058
-- Fridays, 2:30-3:20 DEN 303
+- Fridays, 2:30-3:20 MGH 058
 
 __Office Hours__: 
 

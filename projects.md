@@ -17,7 +17,7 @@ Please join us for a poster session celebrating the outstanding design work of C
 Thank you for joining us to celebrate the outstanding design work of CSE 440 students:
 {% endcomment %}
 
-Monday, March 13
+Tuesday, June 6
 
 11:00 am to 12:00pm, [CSE Atrium](http://www.washington.edu/maps/#!/cse)
 
@@ -35,27 +35,26 @@ Monday, March 13
 
 # Project Theme
 
-People have long sought to better understand themselves, but recently technology advances enable new approaches.
-Projects explored opportunities and challenges in self-tracking, also known as personal informatics:
 
-> Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
-> self-reflection and gaining self-knowledge.
->
-> [Li _et al._, 2010]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf).
+This year’s project theme will be “Designing for diversity”! You will be encouraged to design for groups of people who are different from yourself and/or to design for inclusiveness, connecting people from different backgrounds. 
 
-Self-tracking and personal informatics are closely related to the [Quantified Self](http://quantifiedself.com/) movement, which emphasizes:
+Computers and the Internet have changed many people's lives. However, many applications that we use in our daily lives are developed by Westerners and embed the developers' beliefs in what is useful and usable. 
+For example, Facebook is extremely popular in many Western countries, but has failed to attract a large user base in Russia. Facebook is also not as popular with elderly and teens as it is with people between 25 and 45 of age. Similarly, Uber and Lyft have gained much attraction with economically prosperous young professionals, but are often seen with suspicion in economically strained parts of the US. Most of these problems in designing adequate technology and gaining market share arise because designers and developers can be insufficiently aware of the beliefs, preferences, needs, and prior experiences of people who are different from themselves.
 
-> Self-knowledge through numbers.
->
-> [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
+Over the course of the quarter, you will work as a group on designing a system to an activity or relationship within the particular context of a group of people that is not particularly well supported by current tools. Example groups that you could design for are: 
+- Minorities 
+- Homeless
+- People with disabilities
+- People from different cultures
+- People with chronic conditions
+- Elderly
+- Local business owners
+- Workers
+- Interactions between these groups (or between yourselves and one of these groups)
 
-As a focus for Winter 2017, students were asked to explore __tracking beyond the self__.
-Instead of limiting self-tracking to a isolated self-analyst,
-we asked students to consider how people might interact around personal data in a variety of social contexts.
-Any problem where multiple people collect data, or where multiple people engage in gaining value from data,
-introduces additional opportunities and challenges in designing for effective interaction with personal data.
-Students have examined the problems people encounter,
-then explored how new technology can go beyond the data fetish to help people in reaching their goals.
+As part of your project, you will need to define what a specific group's needs are that your project tries to support and what activity you would like to design that might help address this need.
+Think about how that activity is currently supported via technology, what doesn't work about current ways of supporting it, and how your solution will do this better. 
+The specificity of addressing a particular group of people allows you to deeply think about what makes the group unique and how you would best want to support them. So, dive in and see what you can come up with! 
 
 # Project Websites
 
