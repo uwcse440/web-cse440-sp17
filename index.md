@@ -85,9 +85,9 @@ __Class Time & Location__: Tuesdays & Thursdays, 10:30-11:50 OUG 141
 __Section Times & Locations__: 
 
 - Fridays, 10:30-11:20 MGH 058
-- Fridays, 11:30-12:20 MGH 058
+- Fridays, 11:30-12:20 DEN 303
 - Fridays, 1:30-2:20 MGH 058
-- Fridays, 2:30-3:20 MGH 058
+- Fridays, 2:30-3:20 DEN 303
 
 __Office Hours__: 
 
@@ -103,24 +103,24 @@ __Course Staff__:
 <html>
   <div class="row">
     <div class="col-md-2">
-      <p>James Fogarty</p>
+      <p>Katharina Reinecke</p>
       <p><img src="{{ site.baseurl }}/images/katharina_photo.jpg" width="150" alt="Katharina Reinecke"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Eunice Jun</p>
-      <p><img src="{{ site.baseurl }}/images/eunice_photo.jpg" width="150" alt="Eunice Jun"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>David Wang</p>
-      <p><img src="{{ site.baseurl }}/images/david_photo.jpg" width="150" alt="David Wang"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Elisabeth Chin</p>
-      <p><img src="{{ site.baseurl }}/images/elisabeth_photo.jpg" width="150" alt="Elisabeth Chin"/></p>
     </div>
     <div class="col-md-2">
       <p>Ravi Karkar</p>
       <p><img src="{{ site.baseurl }}/images/ravi_photo.jpg" width="150" alt="Ravi Karkar"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Tanu Khandelwal</p>
+      <p><img src="{{ site.baseurl }}/images/tanu_photo.jpg" width="150" alt="Tanu Khandelwal"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Ashish Chaudhary</p>
+      <p><img src="{{ site.baseurl }}/images/ashish_photo.jpg" width="150" alt="Ashish Chaudhary"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Elisabeth Chin</p>
+      <p><img src="{{ site.baseurl }}/images/elisabeth_photo.jpg" width="150" alt="Elisabeth Chin"/></p>
     </div>
   </div>
 </html>
