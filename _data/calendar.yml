@@ -1,33 +1,30 @@
 dates_of_instruction:
-  start: "2017-01-01"
-  end:   "2017-03-18"
+  start: "2017-03-26"
+  end:   "2017-06-08"
 
 locations:
   lectures:
     - time: "10:30 - 11:50"
-      location: "GLD 322"
+      location: "OUG 141"
   sections:
     - time: "10:30 - 11:20"
       location: "MGH 058"
     - time: "11:30 - 12:20"
-      location: "MGH 058"
+      location: "DEN 303"
     - time: "1:30 - 2:20"
       location: "MGH 058"
     - time: "2:30 - 3:20"
-      location: "MGH 058"
+      location: "DEN 303"
   postersession:
-    - time: "11:00 - 12:20"
+    - time: "TBD"
       location: "CSE Atrium"
 
-  officehoursjames:
-    - time: "2:30 - 3:30"
-      location: "CSE 666"
-  officehoursdavid:
-    - time: "12:00 - 1:00"
-      location: "CSE 021"
-  officehourseunice:
-    - time: "1:45 - 2:45"
-      location: "CSE 021"
+  officehourskatharina:
+    - time: "TBD"
+      location: "CSE 566"
+  officehoursta:
+    - time: "TBD"
+      location: "TBD"
 
   sections_skip1030:
     - time: "11:30 - 12:20"
@@ -47,80 +44,97 @@ locations:
 
   examqa:
     - time: "1:30 - 2:30"
-      location: "CSE 403"
+      location: "TBD"
 
 lectures:
-  - date: "2017-01-03"
-    name: "Introduction,<br>Project Overview,<br>and Personal Informatics"
+  - date: "2017-03-28"
+    name: "Introduction and <br>Project Overview"
 #    slides: "slides/lecture/l01-intro.pdf"
-  - date: "2017-01-05"
-    name: "Design of Everyday Things"
+  - date: "2017-03-30"
+    name: "History and State <br>of the Art in HCI"
 #    slides: "slides/lecture/l02-doet.pdf"
-  - date: "2017-01-10"
-    name: "Contextual Inquiry,<br>Design Research"
+  - date: "2017-04-04"
+    name: "Designing for Diversity"
 #    slides: "slides/lecture/l03-contextualinquiry.pdf"
     # notes: "Required for Project 2a, CI Planning Over Weekend"
-  - date: "2017-01-12"
-    name: "History"
+  - date: "2017-04-06"
+    name: "Design of Everyday Things"
 #    slides: "slides/lecture/l04-history.pdf"
-  - date: "2017-01-17"
-    name: "Design Diamond"
+  - date: "2017-04-11"
+    name: "Design Process and <br>Design Diamond"
 #    slides: "slides/lecture/l05-designdiamond.pdf"
     # notes: "Required for Project 2f"
-  - date: "2017-01-19"
-    name: "Critique,<br>Task Analysis"
+  - date: "2017-04-13"
+    name: "User Research"
 #    slides: "slides/lecture/l06-critique-taskanalysis.pdf"
     # notes: "Required for Project 2b"
     # notes: "Required for Project 2d"
-  - date: "2017-01-24"
-    name: "Storyboarding,<br>Video Prototyping"
+  - date: "2017-04-18"
+    name: "Task Analysis"
     # notes: "Required for Project 2g"
 #    slides: "slides/lecture/l07-storyboarding.pdf"
-  - date: "2017-01-26"
-    name: "Human Performance"
+  - date: "2017-04-20"
+    name: "####"
 #    slides: "slides/lecture/l08-humanperformance.pdf"
-  - date: "2017-01-31"
-    name: "Paper Prototyping,<br>Testing"
+  - date: "2017-04-25"
+    name: "Storyboarding"
 #    slides: "slides/lecture/l09-paperprototyping.pdf"
     # notes: "Required for Project 3a"
-  - date: "2017-02-02"
-    name: "Interface Implementation"
+  - date: "2017-04-27"
+    name: "Human Performance"
 #    slides: "slides/lecture/l10-interfaceimplementation.pdf"
-  - date: "2017-02-07"
-    name: "Tasks in Testing,<br>Presentations"
+  - date: "2017-05-02"
+    name: "Paper Prototyping"
 #    slides: "slides/lecture/l11-tasksintesting.pdf"
-  - date: "2017-02-14"
-    name: "Inspection"
+  - date: "2017-05-04"
+    name: "Testing"
 #    slides: "slides/lecture/l13-inspection.pdf"
     # notes: "Required for Project 3b"
-  - date: "2017-02-16"
-    name: "Testing,<br>Patterns"
+  - date: "2017-05-09"
+    name: "TBD"
 #    slides: "slides/lecture/l14-testing-patterns.pdf"
-  - date: "2017-02-23"
-    name: "Designing for Diverse Needs"
+  - date: "2017-05-11"
+    name: "Interface Implementation"
 #    slides: "slides/lecture/l15-designingfordiverseneeds.pdf"
-  - date: "2017-03-07"
-    name: "Video Critique,<br>Closing Thoughts"
+  - date: "2017-05-16"
+    name: "Inspection"
 #    slides: "slides/lecture/l17-closingthoughts.pdf"
+  - date: "2017-05-18"
+    name: "Testing and Patterns"
+#    slides: "slides/section/s01-brainstorm.pdf"
+  - date: "2017-05-23"
+    name: "Exam Q&A"
+#    slides: "slides/section/s02-ideation.pdf"
+  - date: "2017-05-25"
+    name: "Exam"
+#    slides: "slides/section/s03-ci.pdf"
+  - date: "2017-05-30"
+    name: "Presentations"
+#    slides: "slides/section/s04-tasks.pdf"
+  - date: "2017-06-01"
+    name: "Presentations"
+#    slides: "slides/section/s05-design.pdf"
+
 
 sections:
-  - date: "2017-01-06"
+  - date: "2017-03-31"
 #    slides: "slides/section/s01-brainstorm.pdf"
-  - date: "2017-01-13"
+  - date: "2017-04-07"
 #    slides: "slides/section/s02-ideation.pdf"
-  - date: "2017-01-20"
+  - date: "2017-04-14"
 #    slides: "slides/section/s03-ci.pdf"
-  - date: "2017-01-27"
+  - date: "2017-04-21"
 #    slides: "slides/section/s04-tasks.pdf"
-  - date: "2017-02-03"
+  - date: "2017-04-28"
 #    slides: "slides/section/s05-design.pdf"
-  - date: "2017-02-17"
+  - date: "2017-05-05"
 #    slides: "slides/section/s07-paper.pdf"
-  - date: "2017-02-24"
+  - date: "2017-05-12"
 #    slides: "slides/section/s08-mockup.pdf"
-  - date: "2017-03-09"
-    location: "lectures"
-  - date: "2017-03-10"
+  - date: "2017-05-19"
+#    location: "lectures"
+  - date: "2017-05-26"
+  - date: "2017-06-02"
 
   - date: "2017-02-20"
     name: "Exam Q&A"
@@ -265,107 +279,91 @@ majors:
   - date: "2017-02-21"
     name: "Exam"
     location: "lectures"
-  - date: "2017-03-13"
+  - date: "2017-06-06"
     name: "Poster Session"
     location: "postersession"
-    link: "assignments/assignment4/#final_everything"
+    #link: "assignments/assignment4/#final_everything"
 
 aways:
-  - date: "2017-02-27"
-    name: "James Away"
-  - date: "2017-02-28"
-    name: "James Away"
-  - date: "2017-03-01"
-    name: "James Away"
+  - date: "2017-04-20"
+    name: "Katharina Away"
+  - date: "2017-05-09"
+    name: "Katharina Away"
 
-  - date: "2017-02-27"
-    name: "Eunice Away"
-  - date: "2017-02-28"
-    name: "Eunice Away"
-  - date: "2017-03-01"
-    name: "Eunice Away"
-    
-  - date: "2017-01-27"
-    name: "David / Ravi<br>Section Switch"
+  - date: "2017-04-14"
+    name: "Ravi Away"
+  - date: "2017-05-07"
+    name: "Ravi Away"
+  - date: "2017-05-08"
+    name: "Ravi Away"
+  - date: "2017-05-09"
+    name: "Ravi Away"
+  - date: "2017-05-10"
+    name: "Ravi Away"
+  - date: "2017-05-11"
+    name: "Ravi Away"
 
 officehours:
-  - date: "2017-01-10"
-    name: "James Office Hour"
-    location: officehoursjames
-  - date: "2017-01-17"
-    name: "James Office Hour"
-    location: officehoursjames
-  - date: "2017-01-24"
-    name: "James Office Hour"
-    location: officehoursjames
-  - date: "2017-01-31"
-    name: "James Office Hour"
-    location: officehoursjames
-  - date: "2017-02-07"
-    name: "James Office Hour"
-    location: officehoursjames
-  - date: "2017-02-14"
-    name: "James Office Hour"
-    location: officehoursjames
-  - date: "2017-03-07"
-    name: "James Office Hour"
-    location: officehoursjames
+  - date: "2017-03-28"
+    name: "Katharina Office Hour"
+    location: officehourskatharina
+  - date: "2017-04-04"
+    name: "Katharina Office Hour"
+    location: officehourskatharina
+  - date: "2017-04-11"
+    name: "Katharina Office Hour"
+    location: officehourskatharina
+  - date: "2017-04-18"
+    name: "Katharina Office Hour"
+    location: officehourskatharina
+  - date: "2017-04-25"
+    name: "Katharina Office Hour"
+    location: officehourskatharina
+  - date: "2017-05-02"
+    name: "Katharina Office Hour"
+    location: officehourskatharina
+  - date: "2017-05-16"
+    name: "Katharina Office Hour"
+    location: officehourskatharina
+  - date: "2017-05-23"
+    name: "Katharina Office Hour"
+    location: officehourskatharina
+  - date: "2017-05-30"
+    name: "Katharina Office Hour"
+    location: officehourskatharina
 
-  - date: "2017-01-12"
-    name: "David Office Hour"
-    location: officehoursdavid
-  - date: "2017-01-19"
-    name: "David Office Hour"
-    location: officehoursdavid
-  - date: "2017-01-26"
-    name: "David Office Hour"
-    location: officehoursdavid
-  - date: "2017-02-02"
-    name: "David Office Hour"
-    location: officehoursdavid
-  - date: "2017-02-16"
-    name: "David Office Hour"
-    location: officehoursdavid
-  - date: "2017-02-23"
-    name: "David Office Hour"
-    location: officehoursdavid
-  - date: "2017-03-09"
-    name: "David Office Hour"
-    location: officehoursdavid
+  - date: "2017-03-29"
+    name: "TA Office Hour"
+    location: officehoursta
+  - date: "2017-04-05"
+    name: "TA Office Hour"
+    location: officehoursta
+  - date: "2017-04-12"
+    name: "TA Office Hour"
+    location: officehoursta
+  - date: "2017-04-19"
+    name: "TA Office Hour"
+    location: officehoursta
+  - date: "2017-04-26"
+    name: "TA Office Hour"
+    location: officehoursta
+  - date: "2017-05-03"
+    name: "TA Office Hour"
+    location: officehoursta
+  - date: "2017-05-10"
+    name: "TA Office Hour"
+    location: officehoursta
+  - date: "2017-05-17"
+    name: "TA Office Hour"
+    location: officehoursta
+  - date: "2017-05-24"
+    name: "TA Office Hour"
+    location: officehoursta
+  - date: "2017-05-31"
+    name: "TA Office Hour"
+    location: officehoursta
 
-  - date: "2017-01-11"
-    name: "Eunice Office Hour"
-    location: officehourseunice
-  - date: "2017-01-18"
-    name: "Eunice Office Hour"
-    location: officehourseunice
-  - date: "2017-01-25"
-    name: "Eunice Office Hour"
-    location: officehourseunice
-  - date: "2017-02-01"
-    name: "Eunice Office Hour"
-    location: officehourseunice
-  - date: "2017-02-08"
-    name: "Eunice Office Hour"
-    location: officehourseunice
-  - date: "2017-02-15"
-    name: "Eunice Office Hour"
-    location: officehourseunice
-  - date: "2017-02-22"
-    name: "Eunice Office Hour"
-    location: officehourseunice
-  - date: "2017-03-08"
-    name: "Eunice Office Hour"
-    location: officehourseunice
-
-  - date: "2017-03-01"
-    name: "Ravi Office Hour"
-    location: officehourseunice
 
 holidays:
-  - date: "2017-01-02"
-    name: "New Year's Day (Observed)"
-  - date: "2017-01-16"
-    name: "Martin Luther King Day"
-  - date: "2017-02-20"
-    name: "Presidents Day"
+  - date: "2017-05-29"
+    name: "Memorial Day"
