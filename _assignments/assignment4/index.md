@@ -2,22 +2,22 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 4: Communicating Your Design"
 
-due_project_4a: Uploaded Monday, March 6, 2017
-link_project_4a: https://canvas.uw.edu/courses/1098203/assignments/3615328
+due_project_4a: Uploaded Monday, May 29, 2017 (before class on Tuesday, May 30, 2017)
+#link_project_4a: https://canvas.uw.edu/courses/1098203/assignments/3615328
 
-due_project_4b: Uploaded Monday, March 6, 2017 (before class on Tuesday, March 7, 2017)
-link_project_4b: https://canvas.uw.edu/courses/1098203/assignments/3615334
+#due_project_4b: Uploaded Monday, March 6, 2017 (before class on Tuesday, March 7, 2017)
+#link_project_4b: https://canvas.uw.edu/courses/1098203/assignments/3615334
 
-due_project_4c: Uploaded Wednesday, March 8, 2017 (before class on Thursday, March 9, 2017)
-link_project_4c: https://canvas.uw.edu/courses/1098203/assignments/3615337
+due_project_4b: Uploaded Wednesday, May 31, 2017 (before class on Thursday, June 1, 2017)
+#link_project_4b: https://canvas.uw.edu/courses/1098203/assignments/3615337
 
-due_project_4d: Completed in section on Friday, March 10, 2017
+due_project_4c: Completed in section on Friday, June 2, 2017
 
-due_project_4e: Uploaded Friday, March 10, 2017
-link_project_4e_poster: https://canvas.uw.edu/courses/1098203/assignments/3615345
-link_project_4e_video: https://canvas.uw.edu/courses/1098203/assignments/3615348
+due_project_4d: Uploaded Friday, June 2, 2017
+#link_project_4d_poster: https://canvas.uw.edu/courses/1098203/assignments/3615345
+#link_project_4d_video: https://canvas.uw.edu/courses/1098203/assignments/3615348
 
-due_project_4f: Attend 11:00 to 12:20, Monday, March 13, 2017
+due_project_4e: Attend 11:00 to 12:20, Tuesday, June 6, 2017
 
 ---
 
@@ -53,25 +53,25 @@ This is a group assignment, consisting of six milestones.
 
   Due: {{ page.due_project_4a }}
 
-* [Assignment 4b: Initial Video Prototype](#initial_video_prototype)
+<!-- * [Assignment 4b: Initial Video Prototype](#initial_video_prototype)
+
+  Due: {{ page.due_project_4b }} -->
+
+* [Assignment 4b: Poster Critique and Pitch](#poster_pitch)
 
   Due: {{ page.due_project_4b }}
 
-* [Assignment 4c: Poster Critique and Pitch](#poster_pitch)
+* [Assignment 4c: Communication Critique](#communication_critique)
 
   Due: {{ page.due_project_4c }}
 
-* [Assignment 4d: Communication Critique](#communication_critique)
+* [Assignment 4d: Final Poster, Final Video, Final Website](#final_everything)
 
-  Due: {{ page.due_project_4d }}
+  Due: {{ page.due_project_4d }} 
 
-* [Assignment 4e: Final Poster, Final Video, Final Website](#final_everything)
+* [Assignment 4e: Poster Session](#poster_session)
 
-  Due: {{ page.due_project_4e }} 
-
-* [Assignment 4f: Poster Session](#poster_session)
-
-  Due: {{ page.due_project_4f }}
+  Due: {{ page.due_project_4e }}
 
 # Project Description
 
@@ -173,7 +173,7 @@ This milestone will be graded on a scale of __8 points__:
 Your website should be complete and will be evaluated as such.
 But later critique and refinement will help further improve it before the final poster session.
 
-<a name="initial_video_prototype"></a>
+<!-- <a name="initial_video_prototype"></a>
 
 ## 4b: Initial Video Prototype
 
@@ -215,13 +215,13 @@ This milestone will be graded on a scale of __6 points__:
 2.  __Appropriately Polished and Timed__: (3 points)
 
 Your video prototype should be complete and will be evaluated as such.
-But later critique and refinement will help further improve it before the final poster session.
+But later critique and refinement will help further improve it before the final poster session. -->
 
 <a name="poster_pitch"></a>
 
-## 4c: Poster Critique and Pitch
+## 4b: Poster Critique and Pitch
 
-Due: {{ page.due_project_4c }}
+Due: {{ page.due_project_4b }}
 
 Your poster should include:
 
@@ -261,7 +261,7 @@ Be sure to understand and carefully consider project requirements and feedback f
 
 Submit your poster via Canvas here: 
 
-{% if page.link_project_4c != nil %}<{{ page.link_project_4c }}>{% else %}`Link to be added`{% endif %}
+{% if page.link_project_4b != nil %}<{{ page.link_project_4b }}>{% else %}`Link to be added`{% endif %}
 
 Your poster may be in PPT, PPTX, or PDF format. 
 We have a color plotter that can print posters this size. 
@@ -278,9 +278,9 @@ This milestone will be graded on a scale of __6 points__:
 
 <a name="communication_critique"></a>
 
-## 4d: Communication Critique
+## 4c: Communication Critique
 
-Due: {{ page.due_project_4d }}
+Due: {{ page.due_project_4c }}
 
 This is a flexible critique day. 
 The purpose of this day is to help you refine whichever of your remaining deliverables you feel needs feedback. 
@@ -293,9 +293,9 @@ Bring at least one of your artifacts to class (e.g., be prepared to show them on
 
 <a name="final_everything"></a>
 
-## 4e: Final Poster, Final Video, Final Website
+## 4d: Final Poster, Final Video, Final Website
 
-Due: {{ page.due_project_4e }} 
+Due: {{ page.due_project_4d }} 
 
 Course staff need your finalized poster as soon as possible, to organize printing and preparing for the poster session.
 
@@ -305,7 +305,7 @@ Finalize your video prototype and website so we can finalize grading.
 
 Submit your final poster as soon as possible here:
 
-Poster: {% if page.link_project_4e_poster != nil %}<{{ page.link_project_4e_poster }}>{% else %}`Link to be added`{% endif %}
+Poster: {% if page.link_project_4d_poster != nil %}<{{ page.link_project_4d_poster }}>{% else %}`Link to be added`{% endif %}
 
 Submit a pull request containing your website. We will merge as quickly as possible. 
 You can submit multiple requests if needed to fix issues or improve your website.
@@ -318,7 +318,7 @@ Depending on how you embed your video in your website, it may or may not be part
 For example, embedding a YouTube or Vimeo player does not give us your video.
 We therefore explicitly ask that final videos also be submitted via Canvas here: 
 
-Video: {% if page.link_project_4e_video != nil %}<{{ page.link_project_4e_video }}>{% else %}`Link to be added`{% endif %}
+Video: {% if page.link_project_4d_video != nil %}<{{ page.link_project_4d_video }}>{% else %}`Link to be added`{% endif %}
 
 ### Grading
 
@@ -359,9 +359,9 @@ Your final video, final website, and final poster will each be graded on a scale
 
 <a name="poster_session"></a>
 
-## 4f: Poster Session
+## 4e: Poster Session
 
-Attend {{ page.due_project_4f }}.
+Attend {{ page.due_project_4e }}.
 
 Come to the poster session to show off your work and engage with your classmates.
 Present your pitch to a team of judges.

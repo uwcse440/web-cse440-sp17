@@ -2,35 +2,35 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
-due_project_2a: Completed in section on Friday, January 13, 2017
-link_project_2a: https://canvas.uw.edu/courses/1098203/assignments/3577751
+due_project_2a: Uploaded Wednesday, April 12, 2017 (before class on Thursday, April 13, 2017)
+#link_project_2a: https://canvas.uw.edu/courses/1098203/assignments/3577751
 
-due_project_2b: Uploaded Monday, January 16, 2017 (before class on Tuesday, January 17, 2017)
-link_project_2b: https://canvas.uw.edu/courses/1098203/assignments/3577778
+due_project_2b: Completed in section, April 14, 2017 
+#link_project_2b: https://canvas.uw.edu/courses/1098203/assignments/3577778
 #link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
 
-due_project_2c: Uploaded Thursday, January 19, 2017 (before section on Friday, January 20, 2017)
-link_project_2c: https://canvas.uw.edu/courses/1098203/assignments/3577780
+due_project_2c: Uploaded Wednesday, April 19, 2017 (before class on Thursday, April 20, 2017)
+#link_project_2c: https://canvas.uw.edu/courses/1098203/assignments/3577780
 
-due_project_2d: Uploaded Monday, January 23, 2017 (before class on Tuesday, January 24, 2017)
-link_project_2d: https://canvas.uw.edu/courses/1098203/assignments/3577785
+due_project_2d: Uploaded Monday, April 24, 2017 (before class on Tuesday, January 25, 2017)
+#link_project_2d: https://canvas.uw.edu/courses/1098203/assignments/3577785
 #link_project_2d_critique: https://canvas.uw.edu/courses/987987/assignments/3024240
 
-due_project_2e: Uploaded Thursday, January 26, 2017 (before class on Friday, January 27, 2017)
-link_project_2e: https://canvas.uw.edu/courses/1098203/assignments/3577792
+due_project_2e: Uploaded Wednesday, April 26, 2017 (before class on Thursday, April 27, 2017)
+#link_project_2e: https://canvas.uw.edu/courses/1098203/assignments/3577792
 
-due_project_2f: Uploaded Monday, January 30, 2017 (before class on Tuesday, January 31, 2017)
-link_project_2f: https://canvas.uw.edu/courses/1098203/assignments/3577761
+due_project_2f: Uploaded Friday, April 28, 2017
+#link_project_2f: https://canvas.uw.edu/courses/1098203/assignments/3577761
 #link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342
 
-due_project_2g: Uploaded Thursday, February 2, 2017 (before section on Friday, February 3, 2017)
-link_project_2g: https://canvas.uw.edu/courses/1098203/assignments/3577769
+due_project_2g: Uploaded Wednesday, May 3, 2017 (before class on Thursday, May 4, 2017)
+#link_project_2g: https://canvas.uw.edu/courses/1098203/assignments/3577769
 
-due_project_2h: Uploaded Monday, February 6, 2017 (before class on Tuesday, February 7, 2017)
-link_project_2h: https://canvas.uw.edu/courses/1098203/assignments/3577781
+due_project_2h: Uploaded Friday, May 5, 2017
+#link_project_2h: https://canvas.uw.edu/courses/1098203/assignments/3577781
 
-due_project_2i: Uploaded Wednesday, February 8, 2017 (before class on Thursday, February 9, 2017 and section on Friday February 10, 2017)
-link_project_2i: https://canvas.uw.edu/courses/1098203/assignments/3577784
+#due_project_2i: Uploaded Wednesday, February 8, 2017 (before class on Thursday, February 9, 2017 and section on Friday February 10, 2017)
+#link_project_2i: https://canvas.uw.edu/courses/1098203/assignments/3577784
 
 ---
 
@@ -56,9 +56,9 @@ This assignment is worth __21%__ of your overall course grade:
   - __1%__ for [Assignment 2f: Design Check-In ("3x4")](#design_checkin)
   - __1%__ for [Assignment 2g: Design Review ("1x2")](#design_review)
 
-The content of the associated presentation is worth __5%__ of your overall course grade.
+# The content of the associated presentation is worth __5%__ of your overall course grade.
 
-Your delivery of the associated presentation is worth __2%__ of your overall course grade.
+# Your delivery of the associated presentation is worth __2%__ of your overall course grade.
 
 # Milestones
 
@@ -96,9 +96,9 @@ This is a group assignment, consisting of nine milestones.
 
   Due: {{ page.due_project_2h }}
 
-* [Presentation](#presentation)
+<!-- * [Presentation](#presentation)
 
-  Due: {{ page.due_project_2i }}
+  Due: {{ page.due_project_2i }} -->
 
 # Project Description
 
@@ -108,7 +108,7 @@ You will draw upon the ideas developed in your brainstorming and the observation
 to help develop a set of potential tasks your design might support. 
 You will next sketch how a set of initial designs might support those tasks.
 You will choose a design to pursue in the remainder of the course and storyboard the details of your design in the context of important tasks.
-Finally, you will present your design process in a report and presentation.
+Finally, you will present your design process in a report.
 
 More specifically, you will do the following:
 
@@ -153,9 +153,9 @@ More specifically, you will do the following:
 
    ([Assignment 2g](#design_review))
     
-6. Summarize your design process in a report and presentation.
+6. Summarize your design process in a report.
 
-   ([Assignment 2h](#final_report)), ([Presentation](#presentation))
+   ([Assignment 2h](#final_report)) <!--, ([Presentation](#presentation)) -->
 
 # Deliverables
 
@@ -659,11 +659,11 @@ Ensure your report is appropriately clear and easy to read. This includes:
  - refer to the figures in the body of your text
  - check for typos, spelling, and grammar errors
 
-Be sure your presentation looks good:
+<!-- Be sure your presentation looks good:
 
  - choose appropriate colors, fonts, and styles
  - make liberal use of whitespace 
-
+ -->
 ### Samples from Prior Offerings
 
 Samples from prior offerings include:
@@ -703,9 +703,9 @@ This report will be graded on a scale of __25 points__:
 7.  __Proposed Design Sketches - "3x4"__: (3 points)
 8.  __Written Scenarios - "1x2"__: (3 points)
 9.  __Storyboards of the Selected Design__: (3 points)
-10. __Report Clarity and Presentation__: (4 points)
+10. __Report Clarity__: (4 points)
 
-<a name="presentation"></a>
+<!-- <a name="presentation"></a>
 
 ## Presentation
 
@@ -811,4 +811,4 @@ The delivery of this presentation will be graded on a scale of __4 points__:
 - Presenter makes eye contact with the audience.
 - Presenter projects their voice well and is audible throughout the room.
 - Presenter feels casual and engaged with the content, not just reading it.
-- Presentation covered the required scope within the allowed time period.
+- Presentation covered the required scope within the allowed time period. -->
