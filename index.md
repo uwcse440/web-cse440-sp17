@@ -137,7 +137,7 @@ including the opportunities this course provides in working with a group in an i
 The overall course grade will be computed as follows:
 
 - Group Project (__65%__)
-  - Assignment 1, Project Proposal (__3%__)
+  - Assignment 1, Project Proposal (__5%__)
   - Assignment 2, Getting the Right Design (__21%__)
     - Milestones (__6%__)
     - Final Report (__15%__)
@@ -146,13 +146,13 @@ The overall course grade will be computed as follows:
     - Final Report (__10%__)
   - Assignment 4, Communicating the Design (__15%__)
     - Milestones (__3%__)
-    - Project Website (__4%__)
-    - Video Prototype (__4%__)
-    - Poster (__4%__)
-  - Presentations (__12%__)
-    - Getting the Right Design Presentation (__5%__)
-    - Getting the Design Right Presentation (__5%__)
-    - Individual Presentation Score (__2%__)
+    - Project Website (__6%__)
+    <!-- - Video Prototype (__4%__) -->
+    - Poster (__6%__)
+  - Presentations (__10%__)
+     <!-- - Getting the Right Design Presentation (__10%__) -->
+     <!-- - Getting the Design Right Presentation (__5%__) -->
+     <!-- - Individual Presentation Score (__2%__) -->
 - Exam (__25%__)
 - Individual Readings (__5%__)
 - Participation (__5%__)
