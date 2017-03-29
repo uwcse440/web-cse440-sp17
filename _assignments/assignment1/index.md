@@ -3,7 +3,7 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 1: Project Proposal"
 
 due_project_1a: Uploaded Friday, March 31, 2017
-<!-- link_project_1a: https://canvas.uw.edu/courses/1098203/assignments/3559051 -->
+link_project_1a: https://canvas.uw.edu/courses/1138137/assignments/3689000
 
 due_project_1b: Uploaded Thursday, April 6, 2017
 <!-- link_project_1b: https://canvas.uw.edu/courses/1098203/assignments/3559055 -->
@@ -23,10 +23,11 @@ You are to propose a __problem__ and an __approach__ that could form the basis o
 Successful projects will observe the need for good human-centered design in an interactive computing system, 
 analyze the needs and opportunities in the problem, explore potential designs, and propose a compelling solution.
 
-This assignment is worth __3%__ of your overall course grade:
+This assignment is worth __5%__ of your overall course grade:
 
-- __0.5%__ for the proposal brainstorm
-- __2.5%__ for the project proposal
+- __1%__ for the proposal brainstorm
+- __3%__ for the project proposal
+- __1%__ for the revised project proposal
 
 # Milestones
 
@@ -127,25 +128,27 @@ constraints of this course, and worthy of investigation.
 
 Due: {{ page.due_project_1a }}
 
-Friday's section will focus on brainstorming potential project directions.
-You will get started on thinking, and help seed this brainstorming, with some individual ideas.
+Friday’s section will focus on brainstorming potential project directions. You will get started on thinking, and help seed this brainstorming, with some individual ideas.
 
-Propose three starting points for brainstorming domains, problems, and goals that might be supported via self-tracking.
+Propose three starting points for brainstorming domains, problems, and goals that fall within the realm of designing for diversity.
 
-By domain, we mean an aspect of life. Domains that are already common in self-tracking include:
+By domain, we mean an aspect of a community. Domains include:
 
-- finances (e.g., tracking investments, spending)
-- wellness (e.g., tracking physical activity, sleep, weight)
-- health (e.g., tracking for post-surgical pain management, allergies or other personal triggers, major weight loss)
-- mood (e.g., tracking mood, identifying depressive symptoms)
+- Minorities
+- Homeless
+- People with disabilities
+- People from different cultures
+- People with chronic conditions
+- Elderly
+- Local business owners
+- Workers
 
 Be sure to focus on problems and goals, not potential design solutions.
 One way to help yourself identify a hierarchy of problems and goals is to ask "why?". For example:
 
-- Why is a person using Mint?
-- Why is a person tracking their spending?
-- Why do they want to know how much they spend on leisure activities?
-- Why do they have a goal of saving for a major purchase?
+- Why is a person not using Facebook?
+- Why is a person unable to play shooter games?
+- Why do they want to keep up with the current technology?
 
 Each idea should be a single sentence, identifying the domain and the problem or goal.
 At most one of your ideas may come from any of the domains above.
@@ -236,22 +239,25 @@ This proposal will be graded on a scale of __10 points__:
 
 <a name="project_bid"></a>
 
-## 1c: Project Bid
+## 1c: Revised Project Proposal
 
 Due: {{ page.due_project_1c }}
 
-Review the sponsored projects and course staff comments regarding those projects:
+Update the project proposal based on the feedback you received from the staff. Describe the changes that you made from the previous version in one to two paragraphs. 
 
-{% if page.link_project_1c_projects != nil %}<{{ page.link_project_1c_projects }}>{% else %}`Link to be added`{% endif %}
-
-You will submit a bid on projects and potential partners. Course staff will use your bids to assign projects and groups. 
+<!-- {% if page.link_project_1c_projects != nil %}<{{ page.link_project_1c_projects }}>{% else %}`Link to be added`{% endif %} -->
 
 ### Submission
 
-Submit your bid on projects and potential partners here:
+The submission should describe the changes made from the previous verion on the first page, followed by the updated proposal. 
 
 {% if page.link_project_1c_bids != nil %}<{{ page.link_project_1c_bids }}>{% else %}`Link to be added`{% endif %}
 
 ### Grading
 
-Submitting a project bid is a requirement for proceeding in the class.
+The revised proposal will be graded on a scale of __6 points__:
+
+1. __Changes explained__: (1.5 points)
+2. __Proposal Revision__: (3 points)
+3. __Report Clarity and Presentation__: (1.5 points)
+
