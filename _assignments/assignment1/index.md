@@ -74,21 +74,7 @@ the problems that people face in their lives, how we can approach those problems
 This first assignment is your opportunity to think broadly about identifying a problem. Subsequent assignments will provide
 opportunities to focus on designing a specific technological solution to a specific set of tasks.
 
-You should identify and consider goals and activities that are important to people. Potential domains include:
-
- - living a healthy life
- - managing finances effectively
- - managing time effectively
- - reducing environmental impact
- 
-Activities within personal informatics can include:
-
- - planning to track
- - helping remember to track
- - the actual act of tracking
- - identifying activity patterns 
- - sharing accomplishments with friends and family
- - deciding to abandon tracking
+You should identify and consider goals and activities that are important to people. 
 
 Do not start with a focus on concrete one-time tasks (e.g., logging into your bank account). 
 Instead identify problems in long-lived activities that span many different social or technological contexts. 
@@ -108,7 +94,7 @@ But it has been developed in substantial detail, understanding implications for 
 - [Dialog: Better Decisions, Better Health - Artefact](http://www.artefactgroup.com/content/work/dialog/)
 - [Video of Dialog Talk in DUB Seminar](http://vimeo.com/103167385)
 
-Finally, the project theme requires that your proposal present some opportunity for __tracking beyond the self__.
+Finally, the project theme requires that your proposal present some opportunity for __designing for diversity__.
 But you will ultimately follow your design process where it leads you, which may or may not emphasize tracking.
 Focusing on problems and opportunities, rather than specific design features will leave room for your design
 to emerge and be refined in the course of this project.
