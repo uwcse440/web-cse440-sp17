@@ -76,9 +76,9 @@ Be sure to understand and carefully consider project requirements and feedback f
 
 A small set of readings are assigned throughout the quarter, with additional resources also made available.
 
-<!-- - [Reading Assignments]({{ site.baseurl }}/assignments/readings/) -->
+- [Reading Assignments]({{ site.baseurl }}/assignments/readings/)
 
-`Readings information will be released soon.`
+<!-- `Readings information will be released soon.` -->
 
 # Basic Information
 
