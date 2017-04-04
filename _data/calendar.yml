@@ -153,7 +153,7 @@ assignments:
   - date: "2017-04-07"
     name: "1c - Revised Project Proposal"
     duenote: "[due End of Day]"
-  # link: "assignments/assignment1/#project_bid"
+    link: "assignments/assignment1/#revised_proposal"
   - date: "2017-04-12"
     name: "2a - Project Ideation"
     duenote: "[due Night Before Class]"

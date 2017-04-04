@@ -10,7 +10,7 @@ link_project_1b: https://canvas.uw.edu/courses/1138137/assignments/3689054
 
 due_project_1c: Submitted Friday, April 7, 2017
 <!-- link_project_1c_projects: https://canvas.uw.edu/courses/1098203/discussion_topics/3622610 -->
-<!-- link_project_1c_bids: https://goo.gl/forms/zMHvrB3HfbfT6J0x1 -->
+link_project_1c_bids: https://canvas.uw.edu/courses/1138137/assignments/3689056
 ---
 
 `This page is still being migrated and developed.`
@@ -41,7 +41,7 @@ This is an individual assignment, consisting of three milestones.
 
   Due: {{ page.due_project_1b }}
   
-* [Assignment 1c: Revised Project Proposal](#project_bid)
+* [Assignment 1c: Revised Project Proposal](#revised_proposal)
 
   Due: {{ page.due_project_1c }}
 
@@ -223,7 +223,7 @@ This proposal will be graded on a scale of __10 points__:
 3. __Novelty and Creativity__: (2 points)
 4. __Report Clarity and Presentation__: (2 points)
 
-<a name="project_bid"></a>
+<a name="revised_proposal"></a>
 
 ## 1c: Revised Project Proposal
 
