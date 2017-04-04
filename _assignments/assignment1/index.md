@@ -5,8 +5,8 @@ title: "Assignment 1: Project Proposal"
 due_project_1a: Uploaded Friday, March 31, 2017
 link_project_1a: https://canvas.uw.edu/courses/1138137/assignments/3689000
 
-due_project_1b: Uploaded Thursday, April 6, 2017
-<!-- link_project_1b: https://canvas.uw.edu/courses/1098203/assignments/3559055 -->
+due_project_1b: Uploaded Wednesday (due night before class), April 6, 2017
+link_project_1b: https://canvas.uw.edu/courses/1138137/assignments/3689054
 
 due_project_1c: Submitted Friday, April 7, 2017
 <!-- link_project_1c_projects: https://canvas.uw.edu/courses/1098203/discussion_topics/3622610 -->
