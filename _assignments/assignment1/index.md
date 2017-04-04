@@ -13,9 +13,9 @@ due_project_1c: Submitted Friday, April 7, 2017
 link_project_1c_bids: https://canvas.uw.edu/courses/1138137/assignments/3689056
 ---
 
-`This page is still being migrated and developed.`
+<!-- `This page is still being migrated and developed.` -->
 
-`Information here is likely suggestive of the final page, but remains subject to change.`
+<!-- `Information here is likely suggestive of the final page, but remains subject to change.` -->
 
 # Overview
 
