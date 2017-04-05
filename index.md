@@ -3,9 +3,9 @@ layout: base/bar/bar-sidebar-none
 title: Course Overview
 ---
 
-`This page is still being migrated and developed.`
+<!-- `This page is still being migrated and developed.`
 
-`Information here is likely suggestive of the final page, but remains subject to change.`
+`Information here is likely suggestive of the final page, but remains subject to change.` -->
 
 # Course Description
 
