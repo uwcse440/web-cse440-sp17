@@ -59,7 +59,7 @@ Projects are organized around four assignments, each consisting of several miles
 `Assignment information here is likely suggestive of the final page, but remains subject to change.`
 
 - [Assignment 1 - Project Proposal]({{ site.baseurl }}/assignments/assignment1/)
-<!-- - [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/) -->
+- [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/)
 <!-- - [Assignment 3 - Getting the Design Right]({{ site.baseurl }}/assignments/assignment3/) -->
 <!-- - [Assignment 4 - Communicating the Design]({{ site.baseurl }}/assignments/assignment4/) -->
 
