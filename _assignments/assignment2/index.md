@@ -3,10 +3,10 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
 due_project_2a: Uploaded Wednesday, April 12, 2017 (before class on Thursday, April 13, 2017)
-#link_project_2a: https://canvas.uw.edu/courses/1098203/assignments/3577751
+link_project_2a: https://canvas.uw.edu/courses/1138137/assignments/3713961
 
 due_project_2b: Completed in section, April 14, 2017 
-#link_project_2b: https://canvas.uw.edu/courses/1098203/assignments/3577778
+link_project_2b: https://canvas.uw.edu/courses/1138137/assignments/3713963
 #link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
 
 due_project_2c: Uploaded Wednesday, April 19, 2017 (before class on Thursday, April 20, 2017)
@@ -56,10 +56,10 @@ This assignment is worth __21%__ of your overall course grade:
   - __1%__ for [Assignment 2f: Design Check-In ("3x4")](#design_checkin)
   - __1%__ for [Assignment 2g: Design Review ("1x2")](#design_review)
 
-# The content of the associated presentation is worth __5%__ of your overall course grade.
+<!-- The content of the associated presentation is worth __5%__ of your overall course grade.
 
-# Your delivery of the associated presentation is worth __2%__ of your overall course grade.
-
+Your delivery of the associated presentation is worth __2%__ of your overall course grade.
+ -->
 # Milestones
 
 This is a group assignment, consisting of nine milestones.
@@ -165,44 +165,34 @@ More specifically, you will do the following:
 
 Due: {{ page.due_project_2a }}
 
-Generate 5 to 10 different ideas related to each of the following aspects of your project proposal:
+The goal of this assignment is to begin thinking about how to plan effective design research to inform your design process.
 
+Generate 5 to 10 different ideas related to each of the following aspects of your project proposal:
 - Forms: types of technology on which a design might be developed (e.g., desktop, phone/tablet, sensor, watch, wearable).
-- Data: types of data a design might track or help a person track.
+- Interactions: types of social situations that a design might engage or support.
 - Features: a specific capability a design might have.
 - Tasks: what a person might accomplish with a design. 
-- Social Interactions: types of social interactions and situations a design might engage or support.
 
-We will provide large sheets of paper. Divide a large sheet of paper into 32 squares, each approximately 2in by 2in.
-Sketch your ideas, one in each square. Each idea should be either a quick doodle with a caption or a one-sentence idea. 
-A person familiar with your project but not in your group should be able to understand the idea each sketch conveys.
+Divide a large sheet of paper into 32 squares (or take two sheets of paper with 16 squares on each), each approximately 2in by 2in. Sketch your ideas, one in each square. Each idea should be either a quick doodle with a caption or a one-sentence idea. A person familiar with your project but not in your group should be able to understand the idea each sketch conveys.
 
-The goal is to begin exploring the space of possibilities, not attempting to polish some particular possibility. 
-Focus on the quantity of ideas, not the quality of any one idea. 
-You may include ideas from existing products. No two ideas should be alike.
-When you get stuck, find a context to inspire new ideas.
+The goal is to begin exploring the space of possibilities, not attempting to polish some particular possibility. Focus on the quantity of ideas, not the quality of any one idea. You may include ideas from existing products. No two ideas should be alike. When you get stuck, find a context to inspire new ideas.
 
-Given a space of possible directions, your project needs to begin to gather information on how to generate and consider ideas. 
-Following up on the above, additionally brainstorm:
- 
-- People: types of people you might work with to learn more.
-- Foci: potential foci you might apply in your learning.
-
-The goal is to begin thinking about how to plan effective design research to inform your design process.
+Given a space of possible directions, your project needs to begin to gather information on how to generate and consider ideas. While brainstorming design ideas consider the following in your design:
+People: the user group you have decided to focus on. Also include other types of people you might work with.
+Foci: potential foci you might apply in your learning.
 
 ### Submission
 
-At the end of section, capture and submit an image of your brainstorm.
+For the submission, capture and submit a legible image of your brainstorm. 
 
 Submit via Canvas here:
 
 {% if page.link_project_2a != nil %}<{{ page.link_project_2a }}>{% else %}`Link to be added`{% endif %}
 
-You will be able to take your paper with you, and you should continue brainstorming throughout your project.
 
 ### Grading
 
-This milestone will be graded on a scale of __3 points__ based on participation in generating ideas during the brainstorming exercise.
+This milestone will be graded on a scale of __3 points__ based on the ideas generated.
 
 <a name="design_research_plan"></a>
 
@@ -210,25 +200,14 @@ This milestone will be graded on a scale of __3 points__ based on participation 
 
 Due: {{ page.due_project_2b }}
 
-In one paragraph, describe the people who might use your design and other stakeholders for your design. 
-Describe the particular design research methods and participants you plan to pursue,
-including such details as their background and the environment where you will observe their current practices.
-Give enough information to convince us that you can actually find and engage with your target participants in the next week.
+In one paragraph, describe the people who might use your design and other stakeholders for your design. Describe the particular design research methods and participants you plan to pursue, including such details as their background and the environment where you will observe their current practices. Give enough information to convince us that you can actually find and engage with your target participants in the next week.
 
-For example, your target participants should not be "doctors" but instead a specific group of doctors 
-(e.g., Family Practitioners in the UW Roosevelt Clinic). 
-If gaining access to the target participants is non-trivial (e.g., as with busy doctors), 
-describe the steps you have already taken to gain access and your plans to recover if you are unable to gain access.
-Indicate when you will be conducting your design research, being as specific as possible.
+Be precise! For example, your target participants should not be “doctors” but instead a specific group of doctors (e.g., Family Practitioners in the UW Roosevelt Clinic). If gaining access to the target participants is non-trivial (e.g., as with busy doctors), describe the steps you have already taken to gain access and your plans to recover if you are unable to gain access. Indicate when you will be conducting your design research, being as specific as possible.
 
-In another paragraph, describe the methods you will use to engage with and learn from these people.
-Our starting assumption is that you will conduct contextual inquiries with three participants.
-You can and should propose alternative or additional design research methods according to your needs.
-Please be as specific as possible, providing relevant details for you proposed methods.
+In another paragraph, describe the ideal design research you would conduct. For this, list at least 3 research methods that would help you to engage with and learn from these people. 
 
-For example, if you propose contextual inquiries, discuss current behaviors you want to observe and your planned focus.
-If you propose interviews, discuss the types of questions you plan to explore.
-If you propose a diary study, discuss what type of data you plan to ask participants to bring or collect.
+In the final paragraph, describe which research method you will focus on for the purpose of this class (usually this will be one of the research methods listed in the second paragraph, but in some cases, you might decide that a fourth research method is more realistic). Describe why you chose this method for your user research plan.
+
 
 ### Samples from Prior Offerings
 
@@ -247,7 +226,7 @@ No more than one page of text in PDF format. Submit via Canvas here:
 
 {% if page.link_project_2b != nil %}<{{ page.link_project_2b }}>{% else %}`Link to be added`{% endif %}
 
-In lecture, check with the course staff and be prepared to discuss your design research.
+In section, check with the course staff and be prepared to discuss your design research.
 
 {% comment %}
 ### In-Class Peer Critique
@@ -271,6 +250,8 @@ This milestone will be graded on a scale of __3 points__:
 2. __Feasibility__: (1 point)
 3. __Specificity__: (1 point)
 
+
+<!-- 
 <a name="design_research_checkin"></a>
 
 ## 2c: Design Research Check-In
@@ -664,6 +645,8 @@ Ensure your report is appropriately clear and easy to read. This includes:
  - choose appropriate colors, fonts, and styles
  - make liberal use of whitespace 
  -->
+
+<!-- 
 ### Samples from Prior Offerings
 
 Samples from prior offerings include:
@@ -704,6 +687,8 @@ This report will be graded on a scale of __25 points__:
 8.  __Written Scenarios - "1x2"__: (3 points)
 9.  __Storyboards of the Selected Design__: (3 points)
 10. __Report Clarity__: (4 points)
+
+-->
 
 <!-- <a name="presentation"></a>
 
