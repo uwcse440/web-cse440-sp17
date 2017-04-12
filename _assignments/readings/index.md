@@ -37,9 +37,9 @@ due_reading_patterns: Uploaded Friday, February 24, 2017
 #date_reading_research: Friday, December 4, 2015
 ---
 
-`This page is still being migrated and developed.`
+<!-- `This page is still being migrated and developed.`
 
-`Information here is likely suggestive of the final page, but remains subject to change.`
+`Information here is likely suggestive of the final page, but remains subject to change.` -->
 
 # Overview
 
@@ -56,7 +56,7 @@ They will be graded according to whether they provide evidence you understood an
 
 We will make additional resources available for students as interested.
 
-# Assigned Readings
+# Assigned Readings (Individual assignments)
 
 <a name="contextual_inquiry"></a>
 
