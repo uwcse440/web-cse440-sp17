@@ -250,8 +250,6 @@ This milestone will be graded on a scale of __3 points__:
 2. __Feasibility__: (1 point)
 3. __Specificity__: (1 point)
 
-
-<!-- 
 <a name="design_research_checkin"></a>
 
 ## 2c: Design Research Check-In
@@ -296,7 +294,7 @@ No more than one page of text in PDF format. Submit via Canvas here:
 Names of participants should be replaced with pseudonyms in all documents.
 It is important to protect participant anonymity, even in the case that reporting seems harmless.
 
-In section, be prepared to discuss your design research with other teams and the course staff.
+In class and section, be prepared to discuss your design research with other teams and the course staff.
 
 ### Grading
 
@@ -640,13 +638,7 @@ Ensure your report is appropriately clear and easy to read. This includes:
  - refer to the figures in the body of your text
  - check for typos, spelling, and grammar errors
 
-<!-- Be sure your presentation looks good:
 
- - choose appropriate colors, fonts, and styles
- - make liberal use of whitespace 
- -->
-
-<!-- 
 ### Samples from Prior Offerings
 
 Samples from prior offerings include:
@@ -688,7 +680,7 @@ This report will be graded on a scale of __25 points__:
 9.  __Storyboards of the Selected Design__: (3 points)
 10. __Report Clarity__: (4 points)
 
--->
+
 
 <!-- <a name="presentation"></a>
 
