@@ -25,6 +25,9 @@ locations:
   officehoursta:
     - time: "2:00 to 3:00"
       location: "CSE 110"
+  officehoursta_oneoff:
+    - time: "2:00 to 3:00"
+      location: "CSE 610"
 
   sections_skip1030:
     - time: "11:30 - 12:20"
@@ -91,7 +94,7 @@ lectures:
 #    slides: "slides/lecture/l13-inspection.pdf"
     # notes: "Required for Project 3b"
   - date: "2017-05-09"
-    name: "(Guest Lecture)"
+    name: "Heuristic Evaluation <br>by Tanu & Ashish"
 #    slides: "slides/lecture/l14-testing-patterns.pdf"
   - date: "2017-05-11"
     name: "Interface Implementation"
@@ -348,7 +351,7 @@ officehours:
     location: officehoursta
   - date: "2017-04-26"
     name: "TA Office Hour"
-    location: officehoursta
+    location: officehoursta_oneoff
   - date: "2017-05-03"
     name: "TA Office Hour"
     location: officehoursta
