@@ -98,7 +98,7 @@ __Office Hours__:
 Scheduled hours are held most weeks, but check the calendar:
 
 - Katharina, Tuesdays 1:30 to 2:30, CSE 566
-- Ravi/Tanu, Wednesdays 1:45 to 2:45, CSE 021
+- Ravi/Tanu, Wednesdays 1:45 to 2:45, CSE 110
 
 Other meetings are possible by appointment.
 
