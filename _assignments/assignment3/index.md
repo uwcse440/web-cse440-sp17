@@ -3,33 +3,33 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 3: Getting the Design Right"
 
 due_project_3a: Uploaded Monday, May 8, 2017 (before class on Tuesday, May 9, 2017)
-#link_project_3a: https://canvas.uw.edu/courses/1098203/assignments/3589476
+link_project_3a: https://canvas.uw.edu/courses/1138137/assignments/3728292
 
 due_project_3b: Uploaded Wednesday, May 10, 2017 (before class on Thursday, May 11, 2017)
-#link_project_3b: https://canvas.uw.edu/courses/1098203/assignments/3589479
+link_project_3b: https://canvas.uw.edu/courses/1138137/assignments/3728293
 
 due_project_3c: Uploaded Friday, May 12, 2017
-#link_project_3c: https://canvas.uw.edu/courses/1098203/assignments/3589483
+link_project_3c: https://canvas.uw.edu/courses/1138137/assignments/3728295
 
 due_project_3d: Uploaded Monday, May 15, 2017 (before class on Tuesday, May 16, 2017)
-#link_project_3d: https://canvas.uw.edu/courses/1098203/assignments/3589486
+link_project_3d: https://canvas.uw.edu/courses/1138137/assignments/3728297
 #link_project_3d_critique: https://canvas.uw.edu/courses/987987/assignments/3046463
 
 due_project_3e: Uploaded Friday, May 19, 2017
-#link_project_3e: https://canvas.uw.edu/courses/1098203/assignments/3589489
+link_project_3e: https://canvas.uw.edu/courses/1138137/assignments/3728299
 
 due_project_3f: Uploaded Friday, May 26, 2017
-#link_project_3f: https://canvas.uw.edu/courses/1098203/assignments/3589491
+link_project_3f: https://canvas.uw.edu/courses/1138137/assignments/3728301
 
-#due_project_3g: Uploaded Wednesday, March 1, 2017 (before class on Thursday, March 2, 2017 and section on Friday March 3, 2017)
-#link_project_3g: https://canvas.uw.edu/courses/1098203/assignments/3589492
+due_project_3g: Uploaded Monday, May 29, 2017 (before class on Tuesday, May 30, 2017)
+link_project_3g: https://canvas.uw.edu/courses/1138137/assignments/3728304
 
 ---
 
-`This page is still being migrated and developed.`
+<!-- `This page is still being migrated and developed.`
 
 `Information here is likely suggestive of the final page, but remains subject to change.`
-
+ -->
 # Overview
 
 Now that you have chosen a design, it is time to iteratively refine that design.
@@ -79,9 +79,9 @@ This is a group assignment, consisting of five milestones.
 
   Due: {{ page.due_project_3f }}
 
-<!-- * [Presentation](#presentation)
+* [Presentation](#presentation)
 
-  Due: {{ page.due_project_3g }} -->
+  Due: {{ page.due_project_3g }}
 
 # Project Description 
 
@@ -144,7 +144,7 @@ Finally, you will present your design process in a report and presentation.
    This can and should include fixing major issues as soon as they are detected, before additional tests.
    Your tasks and scenarios are likely stable, but revise them if your evaluation reveals a need.
 
-   ([Assignment 3d](#usability_testing_checkin)), ([Assignment 3e](#usability_testing_review))
+   ([Assignment 3c](#usability_testing_checkin)), ([Assignment 3d](#usability_testing_review))
 
 4. After refining your paper prototype based on your usability testing, construct a digital mockup of your design.
 
@@ -657,9 +657,9 @@ Be sure to understand and carefully consider project requirements and feedback f
 
 ### Submission
 
-Your presentation may be in PPT, PPTX, or PDF format. 
+Your presentation may be in PPT, PPTX, PDF or Keynote format. 
 
-To minimize switching time, we will have all presentations on a single laptop running Microsoft Windows.
+To minimize switching time, we will have all presentations on a single laptop running Mac OS.
 You should optimize your presentation for portability (e.g., ensure any necessary fonts are embedded).
 If we detect any obvious formatting issues on the presentation machine, we may fix them or contact you to fix them.
 But you are ultimately responsible for your presentation.

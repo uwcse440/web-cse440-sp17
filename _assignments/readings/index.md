@@ -8,14 +8,14 @@ link_reading_empathy_file_empathy: https://canvas.uw.edu/files/41599091/download
 #link_reading_empathy_file_ideo_method_cards: https://canvas.uw.edu/files/40115291/download?download_frd=1
 #link_reading_empathy_file_universal_methods: https://canvas.uw.edu/files/39906877/download?download_frd=1
 
-link_reading_storyboarding: https://canvas.uw.edu/courses/1098203/assignments/3584938
+link_reading_storyboarding: https://canvas.uw.edu/courses/1138137/assignments/3728281
 link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
-link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/40119295/download?download_frd=1
-link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/40119348/download?download_frd=1
-link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/40115442/download?download_frd=1
-link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/40161132/download?download_frd=1
-link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/40057647/download?download_frd=1
-due_reading_storyboarding: Uploaded Friday, January 27, 2017
+link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/42159475/download?download_frd=1
+link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/42159629/download?download_frd=1
+link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/42159647/download?download_frd=1
+link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/42159644/download?download_frd=1
+link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/42159638/download?download_frd=1
+due_reading_storyboarding: Uploaded Tuesday, May 2, 2017
 
 link_reading_paper_prototyping: https://canvas.uw.edu/courses/1098203/assignments/3595630
 link_reading_paper_prototyping_file_tiny_fingers: https://canvas.uw.edu/files/40281117/download?download_frd=1
@@ -82,3 +82,70 @@ No more than one page of text in PDF format.
 Submit via Canvas here:
 
 {% if page.link_reading_empathy != nil %}<{{ page.link_reading_empathy }}>{% else %}`Link to be added`{% endif %}
+
+
+<a name="storyboarding"></a>
+
+### Reading 2: Storyboarding and Video Prototyping
+
+Due: {% if page.due_reading_storyboarding != nil %}{{ page.due_reading_storyboarding }}{% else %}`Date to be added`{% endif %}.
+
+Read these storyboarding resources:
+
+  - [Colville-Hyde (2016). UX Comics: Visually Communicating User Experiences.]({{ page.link_reading_storyboarding_file_ux_comics}} )
+  - [Excerpts from Greenberg et al. (2012). Sketching User Experiences: The Workbook]( {{ page.link_reading_storyboarding_file_sketching_excerpts }} )
+
+Specifically, that is these videos:
+
+  - [Mackay Stop Motion](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Mackay-StopAction.mp4)
+  - [Mackay Stop Motion Result](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Mackay-StopActionResult.mp4)
+  - [Document Interaction on Microsoft Surface](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Surface-Document-Interaction.mp4)
+  - [Context Lens on Microsoft Surface](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Surface-Context-Lens.mp4)
+  - [Don't Forget 1](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Don't-Forget-1.mp4)
+  - [Don't Forget 2](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Don't-Forget-2.mp4)
+  - [Don't Forget 3](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Don't-Forget-3.mp4)
+  - [Buddy Map Backcountry](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Buddy-Map-Backcountry.mp4)
+  - [Consumester](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Consumester.mp4)
+  - [Pickup](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Pickup.mp4)
+  - [Graffiti Karma](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Graffiti.mp4)
+  - [ParkSmart](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Parksmart.mp4)
+  - [Plantr](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Plantr.mp4)
+  
+Optionally, check out these additional storyboarding resources:
+  - [Greenberg et al. (2012). Sketching User Experiences: The Workbook.]({{ page.link_reading_storyboarding_file_sketching }})
+  - [Truong, Hayes, and Abowd. (2006). Storyboarding: An Empirical Determination of Best Practices and Effective Guidelines.]({{ page.link_reading_storyboarding_file_empirical }})
+  - [Quesenbery and Brooks. (2010). Storytelling for User Experience.]({{ page.link_reading_storyboarding_file_storytelling }})
+  - [McCloud (1993). Understanding Comics.]({{ page.link_reading_storyboarding_file_understanding_comics }})
+
+Optionally, check out these high-production "vision of the future" video prototypes:
+
+  - [Starfire](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Vision-Sun-Starfire.mp4)
+  - [Knowledge Navigator](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Vision-Apple-Knowledge-Navigator.mp4)
+  - [A Day Made of Glass](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Vision-Corning-A-Day-Made-Of-Glass.mp4)
+
+The Starfire video prototype is notable for including a 'bug',
+where the system behaves in a manner counter to the person's wishes,
+but consistent with how we might expect such technology to work.
+For fun, see if you can spot this 'bug' in the video.
+
+After viewing and considering these examples, think about what approaches were more or less effective.
+
+- In one paragraph, describe a technique you saw in these examples that was highly effective 
+  (i.e., in either storyboarding or video prototyping, in the readings or the videos),
+  which you might therefore want to apply in your storyboarding or video prototyping.
+  Be specific, such that it is clear you considered the examples.
+  Discuss why it was effective.  
+- In one paragraph, describe a technique you saw that was ineffective
+  (i.e., in either storyboarding or video prototyping, in the readings or the videos),
+  which you might therefore want to be mindful of in your storyboarding or video prototyping.
+  Be specific, such that it is clear you considered the examples.
+  Discuss why it was ineffective.
+
+These examples thus support your reflection on how to effectively convey a design.
+Techniques in these and other examples will also directly apply as you prepare your storyboards and video prototypes.
+
+No more than one page of text in PDF format.
+
+Submit via Canvas here:
+
+{% if page.link_reading_storyboarding != nil %}<{{ page.link_reading_storyboarding }}>{% else %}`Link to be added`{% endif %}
