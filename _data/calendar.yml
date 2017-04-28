@@ -28,6 +28,9 @@ locations:
   officehoursta_oneoff:
     - time: "2:00 to 3:00"
       location: "CSE 610"
+  officehours_new:
+    - time: "2:00 to 3:00"
+      location: "CSE 3rd floor breakout area"
 
   sections_skip1030:
     - time: "11:30 - 12:20"
@@ -354,19 +357,19 @@ officehours:
     location: officehoursta_oneoff
   - date: "2017-05-03"
     name: "TA Office Hour"
-    location: officehoursta
+    location: officehours_new
   - date: "2017-05-10"
     name: "TA Office Hour"
-    location: officehoursta
+    location: officehours_new
   - date: "2017-05-17"
     name: "TA Office Hour"
-    location: officehoursta
+    location: officehours_new
   - date: "2017-05-24"
     name: "TA Office Hour"
-    location: officehoursta
+    location: officehours_new
   - date: "2017-05-31"
     name: "TA Office Hour"
-    location: officehoursta
+    location: officehours_new
 
 
 holidays:
