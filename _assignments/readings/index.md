@@ -18,12 +18,12 @@ link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/file
 due_reading_storyboarding: Uploaded Tuesday, May 2, 2017
 
 link_reading_paper_prototyping: https://canvas.uw.edu/courses/1098203/assignments/3595630
-link_reading_paper_prototyping_file_tiny_fingers: https://canvas.uw.edu/files/40281117/download?download_frd=1
-link_reading_paper_prototyping_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
-link_reading_paper_prototyping_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
-link_reading_paper_prototyping_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
-link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
-due_reading_paper_prototyping: Uploaded Friday, February 3, 2017
+link_reading_usability_testing_file: https://canvas.uw.edu/files/41702842/download?download_frd=1
+#link_reading_paper_prototyping_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
+#link_reading_paper_prototyping_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
+#link_reading_paper_prototyping_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
+#link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
+due_reading_paper_prototyping: Uploaded Friday, May 12, 2017
 
 link_reading_patterns: https://canvas.uw.edu/courses/1098203/assignments/3608154
 link_reading_patterns_file_design_of_sites: https://canvas.uw.edu/files/40656356/download?download_frd=1
@@ -149,3 +149,32 @@ No more than one page of text in PDF format.
 Submit via Canvas here:
 
 {% if page.link_reading_storyboarding != nil %}<{{ page.link_reading_storyboarding }}>{% else %}`Link to be added`{% endif %}
+
+
+
+<a name="paperprototyping"></a>
+
+### Reading 3: Usability Testing
+
+Due: {% if page.due_reading_paper_prototyping != nil %}{{ page.due_reading_paper_prototyping }}{% else %}`Date to be added`{% endif %}.
+
+Read:
+
+- [Usability Testing - Research Methods in Human-Computer Interaction]({{ page.link_reading_usability_testing_file }})
+
+Then write one paragraph answering the following two questions: 
+
+- What are the different kinds of usability tests and what advantages do they each offer?
+- In what stages of the project can these tests be performed?
+
+Write another paragraph that answers this third question: 
+
+- Applying what you’ve learned from the reading to your group project, how would you select quantitative measurements for your usability tests? What are the key metrics for your project? Justify your choices. 
+
+Note that even though we ask you to think about your group project, this is an individual assignment. 
+
+No more than one page of text in PDF format.
+
+Submit via Canvas here:
+
+{% if page.link_reading_paper_prototyping != nil %}<{{ page.link_reading_paper_prototyping }}>{% else %}`Link to be added`{% endif %}
