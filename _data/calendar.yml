@@ -219,7 +219,7 @@ assignments:
   - date: "2017-05-12"
     name: "Reading 3: Usability Testing"
     duenote: "[due End of Day]"
-    #link: "assignments/readings/#paperprototyping"
+    link: "assignments/readings/#paperprototyping"
   - date: "2017-05-15"
     name: "3d - Usability Testing Review"
     duenote: "[due Night Before Class]"
