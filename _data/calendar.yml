@@ -100,13 +100,13 @@ lectures:
     name: "Heuristic Evaluation <br>by Tanu & Ashish"
 #    slides: "slides/lecture/l14-testing-patterns.pdf"
   - date: "2017-05-11"
-    name: "Interface Implementation"
+    name: "Patterns"
 #    slides: "slides/lecture/l15-designingfordiverseneeds.pdf"
   - date: "2017-05-16"
-    name: "Inspection"
+    name: "Interface Implementation"
 #    slides: "slides/lecture/l17-closingthoughts.pdf"
   - date: "2017-05-18"
-    name: "Patterns"
+    name: "Communicating your Work"
 #    slides: "slides/section/s01-brainstorm.pdf"
   - date: "2017-05-23"
     name: "Exam Q&A"
@@ -358,9 +358,9 @@ officehours:
   - date: "2017-05-03"
     name: "TA Office Hour"
     location: officehours_new
-  - date: "2017-05-10"
-    name: "TA Office Hour"
-    location: officehours_new
+  # - date: "2017-05-10"
+  #   name: "TA Office Hour"
+  #   location: officehours_new
   - date: "2017-05-17"
     name: "TA Office Hour"
     location: officehours_new
