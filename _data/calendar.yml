@@ -246,7 +246,7 @@ assignments:
   - date: "2017-05-29"
     name: "4a - Initial Website"
     duenote: "[due Night Before Class]"
-    link: "assignments/assignment4/#initial_website"
+    #link: "assignments/assignment4/#initial_website"
   # - date: "2017-03-06"
   #   name: "4b - Initial Video Prototype"
   #   duenote: "[due Night Before Class]"
@@ -254,7 +254,7 @@ assignments:
   - date: "2017-05-31"
     name: "4b - Poster Critique and Pitch"
     duenote: "[due Night Before Class]"
-    link: "assignments/assignment4/#poster_pitch"
+    #link: "assignments/assignment4/#poster_pitch"
   # - date: "2017-06-02"
   #   name: "4c - Communication Critique"
   #   duenote: "[due End of Day]"
@@ -262,7 +262,7 @@ assignments:
   - date: "2017-06-02"
     name: "4d - Final Poster & Website"
     duenote: "[due End of Day]"
-    link: "assignments/assignment4/#final_everything"
+    #link: "assignments/assignment4/#final_everything"
 
 majors:
   # - date: "2017-02-09"
