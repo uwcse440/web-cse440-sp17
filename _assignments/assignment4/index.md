@@ -3,47 +3,41 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 4: Communicating Your Design"
 
 due_project_4a: Uploaded Monday, May 29, 2017 (before class on Tuesday, May 30, 2017)
-#link_project_4a: https://canvas.uw.edu/courses/1098203/assignments/3615328
+link_project_4a: https://canvas.uw.edu/courses/1138137/assignments/3744837
 
 #due_project_4b: Uploaded Monday, March 6, 2017 (before class on Tuesday, March 7, 2017)
 #link_project_4b: https://canvas.uw.edu/courses/1098203/assignments/3615334
 
 due_project_4b: Uploaded Wednesday, May 31, 2017 (before class on Thursday, June 1, 2017)
-#link_project_4b: https://canvas.uw.edu/courses/1098203/assignments/3615337
+link_project_4b: https://canvas.uw.edu/courses/1138137/assignments/3744879
 
 due_project_4c: Completed in section on Friday, June 2, 2017
 
 due_project_4d: Uploaded Friday, June 2, 2017
-#link_project_4d_poster: https://canvas.uw.edu/courses/1098203/assignments/3615345
+link_project_4d_poster: https://canvas.uw.edu/courses/1138137/assignments/3744879
 #link_project_4d_video: https://canvas.uw.edu/courses/1098203/assignments/3615348
 
 due_project_4e: Attend 11:00 to 12:20, Tuesday, June 6, 2017
 
 ---
 
-`This page is still being migrated and developed.`
-
-`Information here is likely suggestive of the final page, but remains subject to change.`
 
 # Overview
 
 You have identified a problem, explored a design space, selected a promising design, and iterated on that design.
 It is now time to focus on communicating your design and your design process.
-This group assignment communicates your design through a __website__, 
-a __video prototype__, a __poster__, and a __pitch__.
+This group assignment communicates your design through a __website__, a __poster__, and a __pitch__.
 
 This assignment is worth __15%__ of your overall course grade:
 
-- __4%__ for [Assignment 4e: Final Video Prototype](#final_everything)
-- __4%__ for [Assignment 4e: Final Website](#final_everything)
-- __4%__ for [Assignment 4e: Final Poster](#final_everything)
+- __6%__ for [Assignment 4d: Final Website](#final_everything)
+- __6%__ for [Assignment 4d: Final Poster](#final_everything)
 - __3%__ for the milestones 
-  - __1%__ for [Assignment 4a: Initial Website](#initial_website)
-  - __1%__ for [Assignment 4b: Initial Video Prototype](#initial_video_prototype)
-  - __1%__ for [Assignment 4c: Poster Critique and Pitch](#poster_pitch) 
+  - __1.5%__ for [Assignment 4a: Initial Website](#initial_website)
+  - __1.5%__ for [Assignment 4b: Poster Critique and Pitch](#poster_pitch) 
 
-[Assignment 4d: Communication Critique](#communication_critique) and 
-[Assignment 4f: Poster Session](#poster_session) are intentionally not graded.
+[Assignment 4c: Communication Critique](#communication_critique) and 
+[Assignment 4e: Poster Session](#poster_session) are intentionally not graded.
 
 # Milestones
 
@@ -76,41 +70,25 @@ This is a group assignment, consisting of six milestones.
 # Project Description
 
 In this assignment, you communicate your design in several forms.
-You will create a website, a video prototype, a poster, and a pitch to present your work from the entire quarter.
+You will create a website, a poster, and a pitch to present your work from the entire quarter.
 
 1. Create a project website that provides an overview of the project, 
    presents your design process, and introduces team members. 
    At a minimum, it must include links to your 
    [Assignment 2]({{ site.baseurl }}/assignments/assignment2/) report, 
-   your [Assignment 3]({{ site.baseurl }}/assignments/assignment3/) report, your video prototype, and your poster.
+   your [Assignment 3]({{ site.baseurl }}/assignments/assignment3/) report, and your poster.
    Optionally, also include your presentations or other materials.
-   Ideally, mcuh of this same content will also be presented in a manner more appropriate for the web. 
+   Ideally, much of this same content will also be presented in a manner more appropriate for the web. 
    
    Be sure you have updated any documents that course staff said needed fixed before posting 
    (e.g., any report that accidentally included participant identifying information). 
 
-2. Create a video prototype that illustrates your proposed design. 
-   Use the storyboards you created as a basis for your video prototype. 
-   Be sure you video conveys all of:
-   
-   - the problem
-   - the design
-   - the context 
-   - the satisfaction
-   
-   Refer to the examples provided in lecture, as well as videos from prior classes, for creating an effective video.
-
-   It is critical that your video be short enough to remain engaging while delivering its content.
-   Your video prototype should probably not be more than 2 minutes long.
-
-   A modern phone can capture video of adequate quality for this assignment. 
-
-3. Create a poster that communicates your design and your design process to a general audience.
+2. Create a poster that communicates your design and your design process to a general audience.
    The goal is to present your work in a visual form to interested parties from across campus or from industry. 
    You need to quickly convey the most important aspects of your work. 
    The poster must be 32"x40" (portrait, vertical). 
    
-4. Create a pitch that you can deliver together with your poster.
+3. Create a pitch that you can deliver together with your poster.
    This should summarize the problem and your design.
    It should be no more than 1 minute long.
    This pitch should convince the audience your problem was worth investigating and that your design effectively addresses it.
@@ -135,8 +113,6 @@ It is also link via a thumbnail from the projects page:
 You can build your website however you like, but everything needed for your site must be in your directory.
 Do not attempt to integrate with the Jekyll functionality used for this course website.
 Simply build your website and submit the set of static files to be served from your directory. 
-
-You will later add your video to the website.
 
 ### Samples from Prior Offerings
 
@@ -299,7 +275,7 @@ Due: {{ page.due_project_4d }}
 
 Course staff need your finalized poster as soon as possible, to organize printing and preparing for the poster session.
 
-Finalize your video prototype and website so we can finalize grading.
+Finalize your website so we can finalize grading.
 
 ### Submission
 
@@ -314,15 +290,15 @@ Your request should not modify anything outside your project website.
 Submit simple pull requests early so that you become familiar with this functionality.
 Do not wait until the final moments to begin to learn how to do this.
 
-Depending on how you embed your video in your website, it may or may not be part of the pull request.
+<!-- Depending on how you embed your video in your website, it may or may not be part of the pull request.
 For example, embedding a YouTube or Vimeo player does not give us your video.
 We therefore explicitly ask that final videos also be submitted via Canvas here: 
 
-Video: {% if page.link_project_4d_video != nil %}<{{ page.link_project_4d_video }}>{% else %}`Link to be added`{% endif %}
+#Video: {% if page.link_project_4d_video != nil %}<{{ page.link_project_4d_video }}>{% else %}`Link to be added`{% endif %} -->
 
 ### Grading
 
-Your final video, final website, and final poster will each be graded on a scale of __10 points__.
+Your final website and final poster will each be graded on a scale of __10 points__.
 
 #### Poster
 
@@ -336,16 +312,6 @@ Your final video, final website, and final poster will each be graded on a scale
   - Text is large and legible
   - Colors and fonts are a pleasing combination and easy to read
 
-#### Video Prototype
-
-- __Content__: (7 points)
-  - Conveys the problem addressed by the design
-  - Conveys the design itself
-  - Conveys the context of interaction
-  - Conveys the satisfaction of the design  
-- __Presentation__: (3 points)
-  - Reasonable level of production value
-  - Appropriately edited and paced
 
 #### Website
 
@@ -353,7 +319,7 @@ Your final video, final website, and final poster will each be graded on a scale
   - Includes all of the points listed above
   - Key features of the design are clear
   - Gives insight into the design process
-  - Links to your reports and video prototype
+  - Links to your reports
 - __Presentation__: (5 points)
   - Looks professional and is something you would consider including in a design portfolio
 
