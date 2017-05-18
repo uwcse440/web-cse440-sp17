@@ -6,6 +6,9 @@ locations:
   lectures:
     - time: "10:30 - 11:50"
       location: "OUG 141"
+  exam:
+    - time: "10:30 - 11:50"
+      location: "EEB 105"
   sections:
     - time: "10:30 - 11:20"
       location: "MGH 058"
@@ -16,7 +19,7 @@ locations:
     - time: "2:30 - 3:20"
       location: "MGH 058"
   postersession:
-    - time: "TBD"
+    - time: "10:30 - 11:50"
       location: "CSE Atrium"
 
   officehourskatharina:
@@ -280,7 +283,7 @@ majors:
   #   link: "assignments/assignment3/#presentation"
   - date: "2017-05-25"
     name: "Exam"
-    location: "lectures"
+    location: "exam"
   - date: "2017-05-30"
     name: "Presentations"
     location: "lectures"
