@@ -17,7 +17,7 @@ due_project_4d: Uploaded Friday, June 2, 2017
 link_project_4d_poster: https://canvas.uw.edu/courses/1138137/assignments/3744879
 #link_project_4d_video: https://canvas.uw.edu/courses/1098203/assignments/3615348
 
-due_project_4e: Attend 11:00 to 12:20, Tuesday, June 6, 2017
+due_project_4e: Attend 10:30-11:50am, Tuesday, June 6, 2017
 
 ---
 
@@ -59,7 +59,7 @@ This is a group assignment, consisting of six milestones.
 
   Due: {{ page.due_project_4c }}
 
-* [Assignment 4d: Final Poster, Final Video, Final Website](#final_everything)
+* [Assignment 4d: Final Poster and Final Website](#final_everything)
 
   Due: {{ page.due_project_4d }} 
 
@@ -211,7 +211,7 @@ Your poster should include:
 
 Your poster should include images and limited amounts of text.
 
-An effective poster size is 32"x40". A PowerPoint template available here:
+An effective poster size is 32"x40". A PowerPoint template is available here:
 
 [Cow Project PowerPoint template]({{ site.baseurl }}/samples/4c/poster_template.ppt)
 
@@ -219,7 +219,7 @@ You should heavily modify the template to be unique and represent your project.
 
 During the final poster session, your team will give a one minute pitch to a small group of judges. 
 
-Be prepared to give this pitch in class.
+Be prepared to give this pitch in class and when presenting the poster.
 Course staff and other students will give feedback so you can improve before the final poster session.
 
 ### Samples from Prior Offerings
@@ -260,7 +260,7 @@ Due: {{ page.due_project_4c }}
 
 This is a flexible critique day. 
 The purpose of this day is to help you refine whichever of your remaining deliverables you feel needs feedback. 
-Be prepared to present your video, website, and/or poster at the critique. 
+Be prepared to present your website and/or poster at the critique. 
 This is the last opportunity for you to get in-class critical feedback, so use it wisely.
 
 ### Submission
@@ -269,7 +269,7 @@ Bring at least one of your artifacts to class (e.g., be prepared to show them on
 
 <a name="final_everything"></a>
 
-## 4d: Final Poster, Final Video, Final Website
+## 4d: Final Poster and Final Website
 
 Due: {{ page.due_project_4d }} 
 
@@ -333,5 +333,5 @@ Come to the poster session to show off your work and engage with your classmates
 Present your pitch to a team of judges.
 
 We will not be conducting any evaluation at the poster session itself. 
-Take the opportunity present your work, chat with judges,
+Take the opportunity to present your work, chat with judges,
 engage with other students, and reflect on a busy and productive quarter.
