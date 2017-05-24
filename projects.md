@@ -19,7 +19,7 @@ Thank you for joining us to celebrate the outstanding design work of CSE 440 stu
 
 Tuesday, June 6
 
-11:00 am to 12:00pm, [CSE Atrium](http://www.washington.edu/maps/#!/cse)
+11:00 am to 11:50pm, [CSE Atrium](http://www.washington.edu/maps/#!/cse)
 
 <img src="{{ site.baseurl }}/images/poster_session.jpg" width="100%" alt="Poster Session"/>
 </div>
@@ -28,10 +28,6 @@ Tuesday, June 6
 </div>
 
 <div class="sidebar_end"></div>
-
-`This page is still being migrated and developed.`
-
-`Information here is likely suggestive of the final page, but remains subject to change.`
 
 # Project Theme
 
