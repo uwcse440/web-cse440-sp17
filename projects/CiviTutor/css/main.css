@@ -1,0 +1,65 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css);
+
+body {
+	background: #607D8B;
+	color: #FFFFFF;
+}
+
+header {
+	position:fixed;
+    left: 0;
+    right: 0;
+    height:100px;
+    background-size:100%;
+    background: #455A64;
+    z-index: 1;
+}
+
+h1 {
+	padding-left: 10px;
+	font-size: 40pt;
+}
+
+.row {
+	padding-top: 100px;
+}
+
+#navigation-bar {
+	position: fixed;
+	left: 0;
+	background: #455A64;
+	height: 100%;
+	padding-top: 30px;
+}
+
+a:hover {
+	color: #757575;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    width: 60px;
+    color: #FFFFFF;
+    font-size: 20pt;
+}
+
+#source-text {
+	font-size: 10pt;
+}
+
+
+
+#dark-primary-color    { background: #455A64; }
+#default-primary-color { background: #607D8B; }
+#light-primary-color   { background: #CFD8DC; }
+#text-primary-color    { color: #FFFFFF; }
+#accent-color          { background: #448AFF; }
+#primary-text-color    { color: #212121; }
+#secondary-text-color  { color: #757575; }
+#divider-color         { border-color: #BDBDBD; }
