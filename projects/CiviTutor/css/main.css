@@ -55,6 +55,11 @@ li a {
     padding-top: 10px;
 }
 
+.anchor {
+	padding-top: 100px;
+	margin-top: -80px;
+}
+
 .row {
 	padding-left: 20%;
 	padding-right: 5%;
@@ -77,6 +82,14 @@ li a {
 	padding-left: 2%;
 	padding-bottom: 20px;
 
+}
+
+#team-col {
+	text-align: center;
+}
+
+.team-img {
+	width: 100%;
 }
 
 
