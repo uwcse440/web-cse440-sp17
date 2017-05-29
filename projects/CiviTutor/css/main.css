@@ -81,7 +81,10 @@ li a {
 	float: left;
 	padding-left: 2%;
 	padding-bottom: 20px;
+}
 
+#white-back {
+	color: black;
 }
 
 #team-col {
