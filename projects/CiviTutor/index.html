@@ -13,29 +13,133 @@
 
 	</head>
 	<body>
-		<div class="container">
-			<header id="border-content"><h1>CiviTutor</h1></header>
-			<div class="row">
-				<div class="col-sm-2" id="navigation-bar">
-					<ul>
-	  					<li><a href="default.asp">Home</a></li>
-	  					<li><a href="news.asp">News</a></li>
-	  					<li><a href="contact.asp">Contact</a></li>
-	  					<li><a href="about.asp">About</a></li>
-					</ul>
-				</div>
-			
-				<div class="col-sm-10">
-					<h3>The Problem</h3>
-					<p>Immigrants currently make up over 13%* of the American population. Of this 13%, many will be seeking to go through the difficult and long process of naturalization, or obtaining citizenship. Citizen status is important to be able to vote, work, go to school, and obtain other benefits while living in the United States. Part of the naturalization process requires that applicants must demonstrate an ability to read, write, and speak in ordinary usage in the English language. This is reasonable for the majority of applicants, but there are certain immigrant groups that due to certain circumstances are not comfortable enough with the language to allow a valid interview in English. Those with disabilities or seniors that have legally resided in the States for a certain time frame are permitted to apply for an exemption from the English language requirement, but are still required to take the civics portion in their native language. </p> 
+		<header id="border-content"><h1>CiviTutor</h1></header>
+		<div id="sub-banner">
+			<div id="navigation-bar">
+				<ul>
+						<li><a href="#">The Problem</a></li>
+						<li><a href="#the-solution">The Solution</a></li>
+						<li><a href="#the-process">The Process</a></li>
+						<li><a href="#the-team">The Team</a></li>
+						<li><a href="#the-poster">The Poster</a></li>
+				</ul>
+			</div>
+			<div class="container-fluid">
+					<div class="row">
+						<h2>The Problem</h2>
+						<p>Immigrants currently make up over 13%* of the American population. Of this 13%, many will be seeking to go through the difficult and long process of naturalization, or obtaining citizenship. Citizen status is important to be able to vote, work, go to school, and obtain other benefits while living in the United States. Part of the naturalization process requires that applicants must demonstrate an ability to read, write, and speak in ordinary usage in the English language. This is reasonable for the majority of applicants, but there are certain immigrant groups that due to certain circumstances are not comfortable enough with the language to allow a valid interview in English. Those with disabilities or seniors that have legally resided in the States for a certain time frame are permitted to apply for an exemption from the English language requirement, but are still required to take the civics portion in their native language. </p> 
 
-					<p>The problem is that many of the resources created to study for the civics test are also written in English, making it harder for those not familiar with the language to study. Currently, government web pages are a great resource in studying for the tests, and are even provided in several different languages. But while these sites are accurate and kept up to date, they can be hard to navigate and find the information that you are searching for. So despite the giant trove of facts, naturalization applicants still have a difficult time becoming familiar with the information required on the civics test. Therefore, the main idea for our solution is to create a holistic study application to help immigrants better learn the questions as well as facilitate a social study environment to practice with others.</p>
+						<p>The problem is that many of the resources created to study for the civics test are also written in English, making it harder for those not familiar with the language to study. Currently, government web pages are a great resource in studying for the tests, and are even provided in several different languages. But while these sites are accurate and kept up to date, they can be hard to navigate and find the information that you are searching for. So despite the giant trove of facts, naturalization applicants still have a difficult time becoming familiar with the information required on the civics test. Therefore, the main idea for our solution is to create a holistic study application to help immigrants better learn the questions as well as facilitate a social study environment to practice with others.</p>
 
-					<p id="source-text">*Source: Migration Policy Institute (MPI) tabulation of data from the U.S. Census Bureau's 2010 and 2015 American Community Surveys (ACS), and 1970-2000 decennial Census.</p>
+						<p id="source-text">*Source: Migration Policy Institute (MPI) tabulation of data from the U.S. Census Bureau's 2010 and 2015 American Community Surveys (ACS), and 1970-2000 decennial Census.</p>
+					</div>
 
-					<h3>The Prototype</h3>
+					<div class="row" id="alt-section">
+						<h2 class="anchor" id="the-solution">The Solution</h2>
 
+						<img id="prot-image" src="img/LoginScreen.png">
+						<img id="prot-image" src="img/ProgressScreen.png">
+
+						CiviTutor is at its core a gamified version of the Civics Test practice materials. Users create an account and can track their progress over time. The web application notes which questions users miss more frequently and presents them within the game more often to ensure users are as prepared as possible for the test. During practice sessions if the user ever gets a question wrong or does not know the answer, they have the option to learn more about the subject of the question in order to understand its context. Every question and answer comes with a pronunciation option to hear and learn the questions in English. The application also allows local and online multiplayer sessions to accomodate every user's study environment. All of these feature contribute to a holisitic study experience to prepare users for the Civics Test.
+
+						<h4><a id="white-back" href="https://invis.io/AFBS76FHY">Link to Full Interactive Prototype</a></h4>
+
+						<h3>Practicing Civics Test Questions</h3>
+
+						<img id="prot-image" src="img/GameScreenSingle.png">
+						<img id="prot-image" src="img/GameScreenCorrect.png">
+
+						<p>The design supports our task of practicing civics test questions by providing a fun, interactive game mode that goes through sets of example questions. For each question, there is an image or animation to make it more enjoyable and also to help create more associations for end users. Whether the user gets the question correct, incorrect, or just didn’t know, the application displays the answer so that they can learn it and get it correct the next time around. Furthermore, if an answer is not correct, the application logs that down, so that the next time the user plays, that question has higher priority and is more likely to come up. </p>
+
+						<h3>Creating Social Study Experiences</h3>
+
+						<img id="prot-image" src="img/AddPlayerTwo.png">
+						<img id="prot-image" src="img/GameScreenChat.png">
+
+						<p>The design also supports our task of creating social study sessions. It does so by allowing users to play in multiplayer mode. In multiplayer mode, there are two options: local or online. If local is selected, users can meet up with other users and play all on one web enabled device. The game will rotate between players, asking one person to answer one question at a time. Multiplayer is similar, but users can connect online instead, and to encourage more social interaction, there is a chatbox so that players can consult other players for help. The goal is for users to help and encourage other users so that they can all succeed together.</p>
+
+
+					</div>
+
+					<div class="row">
+						<h2  class="anchor" id="the-process">The Process</h2>
+
+						<h3>User Research</h3>
+
+						<p>In our user research we took three different approaches in order to gain an array of different perspectives surrounding our target group of elderly Spanish immigrants.</p>
+
+						<p>First we interviewed multiple Spanish immigrants that have taken or are preparing to take the Civics test. These interviews provided valuable context about the amount of access to technology that our target group has as well as what methods of studying they prefer and do not have available. The interviews also revealed where the biggest pain points are currently such as practicing English pronunciations as well as focusing on harder questions.</p>
+
+						<p>The second research approach we took was reaching out to a community member who volunteers for Literacy Source, an organization that helps teach immigrants English and prepare them for the test with in person classes. She gave us the booklet that they use, which includes practice quizzes. She told us that learning English is often a big barrier for taking the test, as there are only a few very specific exceptions that allow people to take the test in their native language. She also informed us that some of the questions are specific to the city in which you take the exam, and that should be taken into account with any study resources. </p>
+
+						<p>Lastly, we posted a list of questions on a facebook group for spanish immigrants, asking how they studied for the test, what kind of resources they would find helpful, and how long they spent studying. We found that the majority of people spent between 1 and 3 months studying for the test itself, although many also spent much longer studying to learn English. Most people just used the immigration booklet to study. A few used the online flash cards, and a few attended classes such as the ones that Literacy Source provides. Most people said that they would prefer an interactive resource to help test their knowledge, a few mentioned visual resources, such as a timeline for the dates, or images and videos to map to the answers. </p>
+
+						<h4><a href="documents/2hFinalReport.pdf">Full Research Process Report</a></h4>
+					</div>
+					<div class="row">
+						<h3>Prototype Design Process</h3>
+						<div class="col-sm-6">
+							<img class="full-img" src="img/initialPrototype.jpg">
+						</div>
+
+						<div class="col-sm-6">
+							<p>Our initial design was at its core a heavily gamified version of practice materials. The design featured a discrete scoring system during the study sessions as well as a competitive aspect in multiplayer sessions. Each study session was independent of each other with no stored information about the user’s progress allowing for quick setup and play. The two main tasks of the design were for users to practice questions from the Civics test and for users to create social study sessions with other users.</p>
+						</div>
+					</div>
+					<div class="row">
+						<p>During our testing process, we used two different methods: heuristic evaluations and usability testing. We started with heuristic evaluations, using two different participants. We followed Jakob Nielsen’s ten heuristics for user interface design as metrics for evaluation. We then conducted three rounds of usability testing, as well.</p>
+						
+						<p>For each heuristic evaluation we performed a walkthrough with our evaluators, showing each screen and describing its intended functionality. For each problem that an evaluator observed, we identified which of the heuristics it would fall under as well as the severity of the problem, from 0 to 4 with 0 being the lowest severity and 4 being the highest.</p>
+
+						<p>After making changes in the prototype from the heuristic evaluations (see Testing Results section), we then conducted three sessions of usability testing. Our usability tests were conducted over two iterations of the prototype with our first usability test being conducted after our revisions from the heuristics evaluations followed by more revisions to the prototype before the last two usability tests.</p>
+
+						<p>We revised our process multiple times throughout the testing phase as we tried to follow methods that would reveal more flaws in our design that we could not predict. The main revision we made to our testing process was reducing the amount of constraints we placed on the testers during the tests. More specifically, in our first usability test we gave the user a series of specific tasks to complete and then noted where they had issues in the process. However, in our later usability tests we encouraged the users to be more open about their thoughts on each screen which revealed more general issues and functionality they expected but was not in our prototype. In our later usability test we also took more time to reflect about the overall design of the prototype with the user after the test was completed in order to receive more general suggestions about aspects that could potentially be included in the design, such as available extra detail on questions for learning more.</p>
+
+					</div>
+					<div class="row">
+						<div class="col-sm-6">
+							<p>Our final prototype features significantly more functionality that provides utility to the user while still being more simplistic and lightweight than our original prototype. Over the entire revision process drastic changes were made such as adding the user account aspect that provides information about how the user has improved over time. The interactiveness of the design was also enhanced through the addition of more dialogue boxes to confirm user input and prevent errors. User control was also increased through options on every screen to quit or revert back to the prior screen to avoid leaving the user in a process funnel.</p>
+						</div>
+						<div class="col-sm-6">
+							<img class="full-img" src="img/finalPrototype.jpg">
+						</div>
+					</div>
+					<div class="row">
+						<h4><a href="documents/3fFinalReport.pdf">Full Prototype Design Process Report</a></h4>
+					</div>
 					
+					<div class="row" id="alt-section">
+						<h2 class="anchor" id="the-team">The Team</h2>
+						<div class="col-sm-3" id="team-col">
+							<img class="full-img" src="img/PMIcon.svg">
+							<h4>John Akers</h4>
+							<h5>Project Manager</h5>
+						</div>
+						<div class="col-sm-3" id="team-col">
+							<img class="full-img" src="img/DesignIcon.svg">
+							<h4>Nick Chang</h4>
+							<h5>Prototype Designer</h5>
+						</div>
+						<div class="col-sm-3" id="team-col">
+							<img class="full-img" src="img/ResearcherIcon.svg">
+							<h4>Victoria Lyndsay</h4>
+							<h5>User Researcher</h5>
+						</div>
+						<div class="col-sm-3" id="team-col">
+							<img class="full-img" src="img/WriterIcon.svg">
+							<h4>Brynn Tweeddale</h4>
+							<h5>Technical Writer</h5>
+						</div>
+					</div>
+
+					<div class="row">
+						<h2 class="anchor" id="the-poster">The Poster</h2>
+						<h2>PLACEHOLDER</h2>
+					</div>
+
+					<div class="row" id="alt-section">
+						<p>Icons from The Noun Project, created by Gregor Cresnar, Augusto Zamperlini, Gan Khoon Lay, and Murat Mustafa</p>
+					</div>
 				</div>
 			</div>
 		</div>

@@ -20,7 +20,7 @@ h1 {
 	font-size: 40pt;
 }
 
-.row {
+#sub-banner {
 	padding-top: 100px;
 }
 
@@ -30,10 +30,16 @@ h1 {
 	background: #455A64;
 	height: 100%;
 	padding-top: 30px;
+	padding-left: 10px;
+	width: 15%;
+}
+
+a {
+	color: #FFFFFF;
 }
 
 a:hover {
-	color: #757575;
+	color: #212121;
 }
 
 ul {
@@ -44,14 +50,51 @@ ul {
 
 li a {
     display: block;
-    width: 60px;
     color: #FFFFFF;
     font-size: 20pt;
+    padding-top: 10px;
+}
+
+.anchor {
+	padding-top: 100px;
+	margin-top: -80px;
+}
+
+.row {
+	padding-left: 20%;
+	padding-right: 5%;
+	padding-bottom: 10px;
+}
+
+#alt-section {
+	background: #CFD8DC;
+	background-size: 100%;
+	color: #212121;
 }
 
 #source-text {
 	font-size: 10pt;
 }
+
+#prot-image {
+	width: 50%;
+	float: left;
+	padding-left: 2%;
+	padding-bottom: 20px;
+}
+
+#white-back {
+	color: black;
+}
+
+#team-col {
+	text-align: center;
+}
+
+.full-img {
+	width: 100%;
+}
+
 
 
 
