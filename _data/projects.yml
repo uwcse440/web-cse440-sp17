@@ -25,7 +25,7 @@ projects:
    publishlink: true
  - name: "Virtual Buddies"
    path: "Virtual_Buddies"
-   # publishlink: true
+   publishlink: true
  - name: "Nurse Watch"
    path: "Nurse_Watch"
    publishlink: true
