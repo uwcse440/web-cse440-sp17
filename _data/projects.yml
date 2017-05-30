@@ -10,10 +10,10 @@ projects:
    publishlink: true
  - name: "Sherpa"
    path: "Sherpa"
-   # publishlink: true
+   publishlink: true
  - name: "LifeAfter"
    path: "LifeAfter"
-   # publishlink: true
+   publishlink: true
  - name: "Iyagi Seattle"
    path: "Iyagi_Seattle"
    # publishlink: true
@@ -22,7 +22,7 @@ projects:
    # publishlink: true
  - name: "honestCare"
    path: "honestCare"
-   # publishlink: true
+   publishlink: true
  - name: "Virtual Buddies"
    path: "Virtual_Buddies"
    # publishlink: true
@@ -34,7 +34,7 @@ projects:
    # publishlink: true
  - name: "CareSupport"
    path: "CareSupport"
-   # publishlink: true
+   publishlink: true
  - name: "Shelter Helper"
    path: "Shelter_Helper"
    # publishlink: true
