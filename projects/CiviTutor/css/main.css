@@ -51,7 +51,7 @@ ul {
 li a {
     display: block;
     color: #FFFFFF;
-    font-size: 20pt;
+    font-size: 2vw;
     padding-top: 10px;
 }
 
@@ -94,9 +94,6 @@ li a {
 .full-img {
 	width: 100%;
 }
-
-
-
 
 #dark-primary-color    { background: #455A64; }
 #default-primary-color { background: #607D8B; }
