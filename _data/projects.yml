@@ -28,7 +28,7 @@ projects:
    # publishlink: true
  - name: "Nurse Watch"
    path: "Nurse_Watch"
-   # publishlink: true
+   publishlink: true
  - name: "Meal Mate"
    path: "Meal_Mate"
    # publishlink: true
@@ -40,4 +40,4 @@ projects:
    publishlink: true
  - name: "DemenCare"
    path: "DemenCare"
-   # publishlink: true
+   publishlink: true
