@@ -16,7 +16,7 @@ projects:
    publishlink: true
  - name: "Iyagi Seattle"
    path: "Iyagi_Seattle"
-   # publishlink: true
+   publishlink: true
  - name: "Expressa"
    path: "Expressa"
    publishlink: true
