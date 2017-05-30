@@ -23,6 +23,15 @@ a {
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
+
+.teamimg img {
+    width: 70%;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
 .btn {
   font-size: 14px;
   padding: 10px 30px;
@@ -473,11 +482,20 @@ a:not([href]):not([tabindex]):hover {
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
-#features .box-item .text h4 {
+div.text h4 {
   font-weight: 600;
   font-size: 18px;
   line-height: 22px;
 }
+
+#overview .text {
+    font-size: 18px;
+}
+
+#overview div {
+    margin-top: 3%;
+}
+
 #features .box-item .text p {
   font-size: 14px;
   line-height: 26px;
@@ -798,7 +816,7 @@ section#prototype .overlay {
   display: block;
   font-size: 17px;
   font-weight: 600;
-  color: #4676fa;
+  color: #1558A8;
   margin-bottom: 20px;
 }
 

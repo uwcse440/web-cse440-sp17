@@ -1,49 +1,43 @@
 projects:
-#  - name: "BookWurm"
-#    path: "bookwurm"
-#    publishlink: true
-#  - name: "Bork"
-#    path: "bork"
-#    publishlink: true
-#  - name: "C3"
-#    path: "c3"
-#    publishlink: true
-#  - name: "CC:"
-#    path: "cc"
-#    publishlink: true
-#  - name: "Dash"
-#    path: "dash"
-#    publishlink: true
-#  - name: "Gale"
-#    path: "gale"
-#    publishlink: true
-#  - name: "Inter.act"
-#    path: "interact"
-#    publishlink: true
-#  - name: "Jasper"
-#    path: "jasper"
-#    publishlink: true
-#  - name: "LocalWay"
-#    path: "localway"
-#    publishlink: true
-#  - name: "Mind You"
-#    path: "mindyou"
-#    publishlink: true
-#  - name: "Mirage"
-#    path: "mirage"
-#    publishlink: true
-#  - name: "OutWrite"
-#    path: "outwrite"
-#    publishlink: true
-#  - name: "StudyQ"
-#    path: "studyq"
-#    publishlink: true
-#  - name: "Subtrackr"
-#    path: "subtrackr"
-#    publishlink: true
-#  - name: "utilIQ"
-#    path: "utiliq"
-#    publishlink: true
-#  - name: "Wishing Well"
-#    path: "wishingwell"
-#    publishlink: true
+ - name: "Uplift"
+   path: "Uplift"
+   publishlink: true
+ - name: "CiviTutor"
+   path: "CiviTutor"
+   publishlink: true
+ - name: "clariFilter"
+   path: "clariFilter"
+   publishlink: true
+ - name: "Sherpa"
+   path: "Sherpa"
+   publishlink: true
+ - name: "LifeAfter"
+   path: "LifeAfter"
+   publishlink: true
+ - name: "Iyagi Seattle"
+   path: "Iyagi_Seattle"
+   # publishlink: true
+ - name: "Expressa"
+   path: "Expressa"
+   publishlink: true
+ - name: "honestCare"
+   path: "honestCare"
+   publishlink: true
+ - name: "Virtual Buddies"
+   path: "Virtual_Buddies"
+   # publishlink: true
+ - name: "Nurse Watch"
+   path: "Nurse_Watch"
+   # publishlink: true
+ - name: "Meal Mate"
+   path: "Meal_Mate"
+   # publishlink: true
+ - name: "CareSupport"
+   path: "CareSupport"
+   publishlink: true
+ - name: "Shelter Helper"
+   path: "Shelter_Helper"
+   publishlink: true
+ - name: "DemenCare"
+   path: "DemenCare"
+   # publishlink: true

@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>CareSupport</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="lib/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="lib/simple-line-icons/css/simple-line-icons.css">
+    <link rel="stylesheet" href="lib/device-mockups/device-mockups.min.css">
+
+    <!-- Theme CSS -->
+    <link href="css/new-age.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">CareSupport</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#overview">Overview</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#prototype">Design Prototype</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#team">Team</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#downloads">Downloads</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-7">
+                    <div class="header-content">
+                        <div class="header-content-inner">
+                            <h2>CareSupport is a mobile app designed for those who provide care for others but have trouble adapting to their new role</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="files/1.1-HomeScreen.PNG" class="img-responsive" alt="">
+                                </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section id="overview" class="overview bg-primary text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 class="section-heading">Discover what all the buzz is about!</h2>
+                    <p>Our app is available on any mobile device! Download now to get started!</p>
+                    <div class="badges">
+                        <a class="badge-link" href="#"><img src="img/google-play-badge.svg" alt=""></a>
+                        <a class="badge-link" href="#"><img src="img/app-store-badge.svg" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="prototype" class="team bg-primary2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-16 text-center">
+                    <div class="section-heading">
+                        <h2>Prototype</h2>
+                        <hr>
+                        <br /><br />
+                        <p>Task 1: Connecting caregivers</p>
+                        <h4>Allowing for caregivers to converse among others who understand the situation in their hand and develop a strong support group ready to give and receieve support when needed</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/3.1-ForumHome-ForumHome.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/4.1-ForumTopic1-State 1.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/4.2-ForumTopic1-AddCommentState.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/4.3-ForumTopic1-AddedComment.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+ 
+                <div class="container-fluid">
+                </div>
+   
+                <div class="row">
+                <div class="col-lg-16 text-center">
+                    <div class="section-heading">
+                       
+                        <br /><br /><hr><br /><br />
+                        <p>Task 2: Information for caregivers</p>
+                        <h4>Having guides readily available to the caregiver to take care of themselves and their loved one.</h4>
+                    </div>
+                </div>
+                <div class="row">
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/6.1-GuideHome-GuideHome.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/8.1-SearchHome-State 1.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/8.2-SearchHome-State 2.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/7.1-GuideExample1.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+                 <div class="container-fluid">
+                </div>
+   
+                <div class="row">
+                <div class="col-lg-16 text-center">
+                    <div class="section-heading">  
+                        <br /><br /><hr><br /><br />
+                        <p>A walkthrough to help the user through the app</p>
+                    </div>
+                </div>
+                 <div class="row">
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/3.2-ForumHome-Faq.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/3.3-ForumHome-Faq2.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/3.4-ForumHome-Faq3.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="device-container">
+                        <div class="device-mockup iphone6_plus portrait black">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="img/3.8-ForumHome-Faq7.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="team" class="team bg-primary">
+        <div class="container">
+                <h2>Design Team</h2>
+                <div class="Row">
+                    <div class="Column">
+                        <h3> Cameron Lewis</h3>
+                        <p>
+                                Junior, CSE
+                        </p>
+                        <h6>Project Manager  | Writer Prototype | Design</h6>
+                    </div>
+                    <div class="Column">
+                        <h3> Louis Phan </h3>
+                        <p>
+                                Senior, CSE/Business
+                        </p>
+                        <h6>Storyboard Artist | Digital Design | User Research</h6>
+                    </div>
+                    <div class="Column">
+                        <h3> Tony Quach</h3>
+                        <p>
+                                Junior, CSE
+                        </p>
+                        <h6>Storyboard Artist | Digital Design | User Research</h6>
+                    </div>
+                </div>
+        </div>
+    </section>
+    <section id="downloads" class="team bg-primary2">
+        <div class="container">
+            <h2>Downloads</h2>
+            <p>
+                Design Research Report
+                <a href="files/2HFinalReport.pdf" class="btn btn-link" role="button" download>Download</a>
+                <a href="files/2HFinalReport.pdf" class="btn btn-link" role="button" target="_blank">View</a> 
+            </p>
+            <p>
+                Final Design Report
+                <a href="files/3FFinalReport.pdf" class="btn btn-link" role="button" download>Download</a>
+                <a href="files/3FFinalReport.pdf" class="btn btn-link" role="button" target="_blank">View</a> 
+            </p>
+            <p>
+                Presentation Slides
+                <!--<a href="files/3FFinalReport.pdf" class="btn btn-link" role="button" download>Download</a>
+                <a href="files/3FFinalReport.pdf" class="btn btn-link" role="button" target="_blank">View</a> -->
+            </p>
+            <p>
+                Poster
+                <!--<a href="files/3FFinalReport.pdf" class="btn btn-link" role="button" download>Download</a>
+                <a href="files/3FFinalReport.pdf" class="btn btn-link" role="button" target="_blank">View</a> -->
+            </p>
+        </div>
+    </section>
+    <footer>
+        <div class="container">
+            <p>&copy; 2017 CareSupport.</p>
+            <p>University of Washington CSE 440. Spring 2017</p>
+            <p>Site template courtesy of https://www.startbootstrap.com/</p>
+            <p>Background texture courtesy of https://www.transparenttextures.com/</p>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="lib/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/new-age.min.js"></script>
+
+</body>
+
+</html>
