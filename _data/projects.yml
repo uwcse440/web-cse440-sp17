@@ -19,7 +19,7 @@ projects:
    # publishlink: true
  - name: "Expressa"
    path: "Expressa"
-   # publishlink: true
+   publishlink: true
  - name: "honestCare"
    path: "honestCare"
    publishlink: true
@@ -37,7 +37,7 @@ projects:
    publishlink: true
  - name: "Shelter Helper"
    path: "Shelter_Helper"
-   # publishlink: true
+   publishlink: true
  - name: "DemenCare"
    path: "DemenCare"
    # publishlink: true
