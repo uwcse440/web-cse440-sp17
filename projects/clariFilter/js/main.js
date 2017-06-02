@@ -1,11 +1,11 @@
 /*
    CounterUp
    ========================================================================== */
-    jQuery(document).ready(function( $ ) {
-      $('.counter').counterUp({
-        time: 500
-      });
-    });
+    // jQuery(document).ready(function( $ ) {
+    //   $('.counter').counterUp({
+    //     time: 500
+    //   });
+    // });
 
 
 /*
@@ -18,17 +18,6 @@
            $('.header-top-area').removeClass('menu-bg');
        }
    });
-/*
-   VIDEO POP-UP
-   ========================================================================== */
-    $('.video-popup').magnificPopup({
-        disableOn: 700,
-        type: 'iframe',
-        mainClass: 'mfp-fade',
-        removalDelay: 160,
-        preloader: false,
-        fixedContentPos: false,
-    });
 
 /*
    Back Top Link
@@ -88,16 +77,6 @@
       keyboardNav: true,
     });
 
-  });
-
-  /* stellar js
-  ========================================================*/
-  $(function(){
-    $.stellar({
-      horizontalScrolling: false,
-      verticalOffset: 40,
-      responsive: true
-    });
   });
 
 /*

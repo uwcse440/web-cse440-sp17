@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:300');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
 @import url('https://fonts.googleapis.com/css?family=Raleway:100,600');
 @import url('https://fonts.googleapis.com/css?family=Menlo:100,600');
 body {
@@ -11,7 +11,7 @@ body {
 }
 p {
   font-size: 14px;
-  line-height: 26px;
+  /*line-height: 26px;*/
 }
 a:hover,
 a:focus {
@@ -22,6 +22,45 @@ a {
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
+}
+
+#iaprototype {
+    vertical-align: text-top;
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 20px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+#iaprototype .steps {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#iaprototype .step {
+    margin: 10px;
+}
+
+div.imgs {
+    display: flex;
+    justify-content: space-between;
+}
+
+.captions, .captions div {
+    margin-top: 1%!important;
+    text-align: center;
+    font-style: italic;
+}
+
+.dpmockup {
+    width: 20%;
+    height: 20%;
+    justify-content: space-between;
+}
+
+#iaprototype .step i {
+    margin-left: 5%;
 }
 
 .teamimg img {
@@ -467,7 +506,7 @@ a:not([href]):not([tabindex]):hover {
 #features .box-item .icon {
   border: 1px solid #4676fa;
   text-align: center;
-  margin: 12px;
+  /*margin: 12px;*/
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
@@ -498,7 +537,7 @@ div.text h4 {
 
 #features .box-item .text p {
   font-size: 14px;
-  line-height: 26px;
+  /*line-height: 26px;*/
 }
 #features .box-item:hover .icon {
   background: #4676fa;
