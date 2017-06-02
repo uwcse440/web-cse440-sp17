@@ -93,6 +93,15 @@ var appMaster = {
             $(this).addClass('active');
         });
 
+        $('.add-image').click(function() {
+            $('.add-image').removeClass('active');
+            var image = this.getAttribute('data-image');
+            $(this).addClass('active');
+            $('#display-screen').empty();
+            $('#display-screen').css('display', 'block');
+            $('#display-screen').append('<img src=\"assets/img/screens/' + image + '.png\" class=\"img-responsive animated bounceIn\" alt=\"\">');
+        });
+
     },
 
     animateScript: function() {
