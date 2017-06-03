@@ -358,10 +358,10 @@ ul#menu-main > li > a:focus {
 
 #header-wrapper {
 	width: 100%;
-	min-height: 400px;
+	min-height: 350px;
 	margin-top: -60px;
-	padding-top:300px;
-	text-align:center;
+	padding-top: 280px;
+	text-align: center;
 }
 
 
@@ -383,7 +383,7 @@ ul#menu-main > li > a:focus {
 
 /* --- Header slider --- */
 #header-wrapper.header-slider {
-	background: #1c1c1c url(../img/bg/bg-1.jpg) no-repeat center center fixed;
+	background: #1c1c1c url(../img/bg/old1.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -505,7 +505,7 @@ section.spacer {
 	background:#ffe873;
 }
 .spacer.orange,.section.orange {
-	background: url(../img/bg/bg-3.jpg) 50% 0 no-repeat fixed;
+	background: url(../img/bg/bg-1.jpg) 50% 0 no-repeat fixed;
 }
 
 section.spacer.bg2 {
