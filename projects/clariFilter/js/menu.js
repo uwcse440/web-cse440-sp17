@@ -4,7 +4,7 @@
  *
  * Licensed under the MIT license.
  * http://www.opensource.org/licenses/mit-license.php
- * 
+ *
  * Copyright 2014, Codrops
  * http://www.codrops.com
  */
@@ -24,15 +24,15 @@
 		openbtn.addEventListener( 'click', toggleMenu );
 		if( closebtn ) {
 			closebtn.addEventListener( 'click', toggleMenu );
-		}		
+		}
 	}
 
 	function toggleMenu() {
 		if( isOpen ) {
-			classie.remove( bodyEl, 'show-menu' );
+			bodyEl.classList.remove('show-menu' );
 		}
 		else {
-			classie.add( bodyEl, 'show-menu' );
+			bodyEl.classList.add('show-menu' );
 		}
 		isOpen = !isOpen;
 	}
