@@ -479,16 +479,19 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Get Started Section
 --------------------------------*/
 #overview {
-  background: #fff;
+  background: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.9)), url("../img/Homeless_Man.jpg") fixed center center;
+  background-size: cover;
   padding: 80px 0;
 }
 
 #overview .overview-container {
-  background: url(../img/overview-img.jpg) left top no-repeat;
+  
 }
 
 #overview .overview-content {
-  background: #fff;
+  
+}
+#overview .overview-header {
 }
 
 #overview .overview-title {
@@ -503,6 +506,38 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #overview .overview-text:last-child {
   margin-bottom: 0;
+}
+/* Design Process Section 
+----------------------------*/
+#process {
+  background: #fff;
+  padding: 80px 0;
+}
+#process .overview-container {
+  background: url(../img/overview-img.jpg) left top no-repeat;
+}
+
+#process .overview-content {
+  background: #fff;
+}
+
+#process .overview-title {
+  color: #333;
+  font-weight: 700;
+  font-size: 28px;
+}
+#process .service-title a {
+  color: #2C186B;
+}
+
+#process .service-description {
+  line-height: 24px;
+}
+#process .service-title {
+  margin-top: 10px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  text-transform: uppercase;
 }
 
 /* Services Section
