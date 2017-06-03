@@ -31,7 +31,7 @@ projects:
    publishlink: true
  - name: "Meal Mate"
    path: "Meal_Mate"
-   # publishlink: true
+   publishlink: true
  - name: "CareSupport"
    path: "CareSupport"
    publishlink: true
