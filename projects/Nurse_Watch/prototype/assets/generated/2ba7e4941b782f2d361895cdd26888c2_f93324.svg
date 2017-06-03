@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Micrecord</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Tech" sketch:type="MSLayerGroup" transform="translate(-118.000000, -1569.000000)" stroke="#f93324" stroke-width="2" stroke-linejoin="round">
+            <g id="Micrecord" transform="translate(129.000000, 1570.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-603" stroke-linecap="round" x="7" y="0" width="25" height="43" rx="16"></rect>
+                <path d="M4,30.5 C4,39.0604136 10.9395864,46 19.5,46 C28.0604136,46 35,39.0604136 35,30.5" id="Oval-563" stroke-linecap="round"></path>
+                <rect id="Rectangle-604" stroke-linecap="round" x="17" y="45" width="5" height="13"></rect>
+                <path d="M11,57 L28.0293865,57" id="Line" stroke-linecap="square"></path>
+                <path d="M38,30 L38,34" id="Line" stroke-linecap="square"></path>
+                <path d="M1,30 L1,34" id="Line-186" stroke-linecap="square"></path>
+                <circle id="Oval-563" stroke-linecap="round" cx="23" cy="11" r="2"></circle>
+                <circle id="Oval-565" stroke-linecap="round" cx="16" cy="11" r="2"></circle>
+                <circle id="Oval-567" stroke-linecap="round" cx="23" cy="18" r="2"></circle>
+                <circle id="Oval-566" stroke-linecap="round" cx="16" cy="18" r="2"></circle>
+                <circle id="Oval-569" stroke-linecap="round" cx="23" cy="25" r="2"></circle>
+                <circle id="Oval-568" stroke-linecap="round" cx="16" cy="25" r="2"></circle>
+                <circle id="Oval-571" stroke-linecap="round" cx="23" cy="32" r="2"></circle>
+                <circle id="Oval-570" stroke-linecap="round" cx="16" cy="32" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
