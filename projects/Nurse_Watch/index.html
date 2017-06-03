@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Agency - Start Bootstrap Theme</title>
+    <title>Nurse Watch</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -24,6 +24,9 @@
     <!-- Theme CSS -->
     <link href="css/agency.min.css" rel="stylesheet">
 
+    <!-- Custom CSS -->
+    <link href="css/custom.css" rel="stylesheet"
+>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -51,9 +54,15 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
                         <a href="#page-top"></a>
+                    <br>
+                    <li>
+                        <a class="page-scroll" href="#problem">The Problem</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#overview">Overview</a>
+                        <a class="page-scroll" href="#solution">Our Solution</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#design">Design Process</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#prototype">Interactive Prototype</a>
@@ -62,7 +71,7 @@
                         <a class="page-scroll" href="#team">Team</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="documents">Documents</a>
+                        <a class="page-scroll" href="#documents">Documents</a>
                     </li>
                 </ul>
             </div>
@@ -83,52 +92,118 @@
     </header>
 
     <!-- Services Section -->
-    <section id="overview">
+    <section id="problem" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Overview</h2>
-                    <h3 class="section-subheading text-muted">Nurse Watch is a wearable designed to help nurses in nursing home communicate to other nurses in case of an emergency as well as to set reminders for time sensitive tasks. This product is meant to make the lives of nurses who take care of multiple patients easier and also help them stay on top of their various responsibilities throughout the day.
-                    <br><br>
-                    The facts:<br>
-                    <ul>
-                        <li>Nursing homes are “So understaffed they may be endangering patients’ welfare” *</li>
-                        <li>Nurses spend an averave of just 0.86 hours a day per patient **</li>
-                        <li>Important to accurately remember patient information</li>
-                        <li>Challenge to respond to emergency and notify staff, hospital, family, and friends</li>
+                    <h2 class="section-heading">The Problem</h2>
+                        <p>Nursing homes face a chronic issue of understaffing, and on average, nurses have less than an hour to spend with each patient*. With so many patients to juggle and such a fast paced schedule, it’s crucial that nurses accurately remember each patient’s information, especially when it comes to time sensitive medications or procedures. In addition, with such a busy schedule, it is a challenge to respond to an emergency and take the time to ensure that staff, family, and friends are notified.<br><br></p>
+                        <p class="text-muted">* Harris-Kojetin L, Sengupta M, Park-Lee E, et al. Long-term care providers and services users in the United States: Data from the National Study of Long-Term Care Providers, 2013-2014. National Center for Health Statistics. Vital Health Stat 3(38). 2016.</p>
                     </ul>
                     </h3>
                 </div>
             </div>
-            <div class="row text-center">
-                <h4 class="service-heading">The Solution</h4>
-                <img src="img/overview/watch.png" alt="Watch Overvew">
-                <p class="text-muted">The Nurse Watch has different components to help ease navigation and user interaction through the course of it's use. The Watch has a button clearly visible on the side of the external interface that brings the user back to the home page immediately irrespective of which page the user is in. In addition, the watch also features text to speech conversion to record different tasks as well as emergencies to reduce the amount of time required to complete tasks in these situations.</p>
+        </div>
+    </section>
 
-                <h4 class="service-heading">Features</h4>
-                <ul>
-                    <li>Fast Reporting of Emergency</li>
-                    <li>Speech to Text</li>
-                    <li>Two way encoded emergency notification alerts and messaging</li>
-                    <li>Punctual Reminders for time sensitive tasks</li>
-                    <li>User authenticated task completion</li>
-                    <li>Emergency Help Notifications and instant reply function</li>
-                </ul>
+    <section id="solution" class="bg-white">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Solution</h4>
+                    <p>Nurse Watch is a wearable solution for the problems faced by nurses taking care of multiple patients on a day-to-day basis. The watch is lightweight and doesn’t get in the way, but allows nurses to communicate easily with one another in the case of an emergency, as well as to set reminders for time sensitive tasks. This product will make the lives of busy nurses easier, helping them stay on top of their various responsibilities.</p>
+                    <img src="img/overview/watch.png" alt="Watch Overvew">
+                    <p> Nurse Watch comes with components that ensure that a user can easily and quickly navigate between various features. The watch has a button clearly visible on the side of the external hardware that brings the user back to the home screen, no matter which page the user had been viewing. In addition, the watch features text to speech conversion for both reporting an emergency and recording reminders, reducing the time needed to complete these two tasks.<br></p>
+
+                    <h4 class="service-heading">Features</h4>
+                    <p>Reporting an emergency quickly, using voice activation<br>
+                    Speech to Text<br>
+                    Two way encoded emergency notification alerts<br>
+                    Reminders for time sensitive tasks<br>
+                    User authenticated task completion<br>
+                    Emergency Help Notifications and instant reply function<br><br></p>
+
+                    <p>Our design accomplishes two main tasks - reporting an emergency and setting reminders for time sensitive tasks. Both of these are very important for nurses to complete promptly, but are difficult to accomplish quickly without technological aid, which is where our solution comes in.<br><br>Our first task focuses on reporting an emergency easily and notifying concerned parties. A nurse can speak into the watch to record her emergency and after pressing or saying “send,” the watch will automatically notify all staff currently wearing the watch.<br><br>Nurses receiving an emergency notification will get a flashing red screen instructing them to tap in order to view the message (to protect patient information). They can choose to notify the nurse who sent the notification that they will be coming to help.<br><br>Nurses can also set reminders for time sensitive tasks for themselves, and view them in a list where they are marked as green for completed and red for uncompleted. Nurses can always view reminders in more details, as well as edit or delete them. To set a reminder, a nurse merely speaks into her phone with the time, detail and title of the task. She can also mark a task as complete, which will require her drawing her initials on the screen for authentication.<br><br></p>
+                    <div class="col-sm-4">
+                        <img src="img/design/dd_emergency_preview.jpg" alt="Emergency Preview">
+                        <p>Record emergencies and send to other users.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="img/design/dd_emergency_notification.jpg" alt="Emergency Notification">
+                        <p>Instantly view emergencies</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="img/design/dd_emergency_reply.jpg" alt="Emergency Reply">
+                        <p>View and respond to emergencies</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="img/design/dd_task_list.jpg" alt="Task List">
+                        <p>View all complete and incomplete reminders</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="img/design/dd_reminder_preview.jpg" alt="Reminder Preview">
+                        <p>Expand tasks to see more detail</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="img/design/dd_reminder_notification.jpg" alt="Reminder Notifications">
+                        <p>Dismiss or complete tasks with one tap</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="design" class="bg-light-gray">
+        <div class="container">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Design Process</h2>
+                <h3 class="section-heading">Initial Sketching</h3>
+                <div class="col-md-6">
+                    <img src="img/design/sketch1.jpg" alt="side view">
+                </div>
+                <div class="col-md-6">
+                    <img src="img/design/sketch2.jpg" alt="wrist view">
+                </div>
+                <p>The first part of our process was to sketch some ideas of possible designs, as we were considering multiple solutions. Our sketch was rough and got the main features of our potential design across, such as voice activation and the general tasks the design could accomplish, but it lacked a lot of detail as we were still in the process of selecting a solution.</p>
+
+                <h3 class="section-heading">Storyboarding</h3>
+                <div class="col-md-12" style="margin-bottom: 20px">
+                    <img src="img/design/storyboard1.jpg" alt="Story Board 1">
+                </div>
+                <div class="col-md-12" style="margin-bottom: 20px">
+                    <img src="img/design/storyboard2.jpg" alt="Story Board 2">
+                </div>
+                <p>Our next design stage involved creating storyboards, helping us envision the contexts where nurses would be using our design. We created a brief story, showing how a nurse would walk through the two main tasks that were addressed by our design. This allowed us to not only envision how a nurse may accomplish the task using the watch, but also got us thinking of particular features that would be necessary.</p>
+
+                <h3 class="section-heading">Paper Prototype</h3>
+                <div class="col-md-12">
+                    <h4 class="section sub-heading">Initial Version</h3>
+                    <img src="img/design/pp1.jpg" alt="Initial Paper Prototype">
+                </div>
+                <div class="col-md-12">
+                    <h4 class="section sub-heading">Final Version</h3>
+                    <img src="img/design/pp2.jpg" alt="Final Paper Prototype">
+                </div>
+                <p>After our storyboards were created, it was time to add more detail to our design with a paper prototype. We created specific features on watch-like paper cutouts, allowing us to fit our design to the appropriate size. In particular, at this stage we added specific buttons and envisioned what the step-by-step process of completing each task would look like. Having a paper prototype also allowed us to complete user testing, which resulted in several changes to our initial prototype.</p>
+                
             </div>
         </div>
     </section>
 
     <!-- Portfolio Grid Section -->
-    <section id="prototype" class="bg-light-gray">
+    <!--<section id="prototype" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Interactive Prototype</h2>
-                    <h3 class="section-subheading text-muted">Coming Soon.</h3>
+                    <div class="protoio-embed-prototype" data-code="CEGQ62" data-show-sidebuttons="0" style="width: 100%; height: 800px;">
+                    </div>
+                    <p class="text-muted">Click the buttons on the watch screen to interact.<br>* On the task list screen, swipe left on a task to expand, swipe right to complete the task.</p>
                 </div>
             </div>
         </div>
     </section>
+    -->
 
     
     <!-- Team Section -->
@@ -143,21 +218,21 @@
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/placeholder.png" class="img-responsive img-circle" alt="">
+                        <img src="img/team/isi.png" class="img-responsive img-circle" alt="">
                         <h4>Isidora Vukosav</h4>
                         <p class="text-muted">Storyboarder, Writer</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/placeholder.png" class="img-responsive img-circle" alt="">
+                        <img src="img/team/john.png" class="img-responsive img-circle" alt="">
                         <h4>John Abercrombie</h4>
                         <p class="text-muted">Writer, Designer</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/placeholder.png" class="img-responsive img-circle" alt="">
+                        <img src="img/team/anupam.png" class="img-responsive img-circle" alt="">
                         <h4>Anupam Gupta</h4>
                         <p class="text-muted">User Researcher, Designer</p>
                     </div>
@@ -175,9 +250,43 @@
                     <h3 class="section-subheading text-muted">Follow the links below to learn more about our design process.</h3>
                 </div>
             </div>
-            <div class="row">
-                <a class="btn btn-default page-scroll" href="documents/FinalReport-1.pdf">Final Report</a>
-                <a class="btn btn-default page-scroll" href="documents/NurseWatch.pdf">Final Presentation</a>
+            <div class="row text-center">
+                <div class="col-md-3">
+                    <a href="documents/Proposal.pdf">
+                        <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                    <h4 class="service-heading">Project Proposal</h4>
+                </div>
+                <div class="col-md-3">
+                    <a href="documents/Assignment 2.pdf">
+                        <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                    <h4 class="service-heading">Getting the Right Design</h4>
+                </div>
+                <div class="col-md-3">
+                    <a href="documents/Assignment 3.pdf">
+                        <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                    <h4 class="service-heading">Getting the Design Right</h4>
+                </div>
+                <div class="col-md-3">
+                    <a href="documents/NurseWatch.pdf">
+                        <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa fa-file-powerpoint-o fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                    <h4 class="service-heading">Presentation Slides</h4>
+                </div>
             </div>
         </div>
     </section>
@@ -185,27 +294,7 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Your Website 2016</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
-                        </li>
-                        <li><a href="#">Terms of Use</a>
-                        </li>
-                    </ul>
-                </div>
+                    <span class="copyright">Copyright &copy; Nurse Watch 2017</span>
             </div>
         </div>
     </footer>
@@ -225,6 +314,9 @@
 
     <!-- Theme JavaScript -->
     <script src="js/agency.min.js"></script>
+
+    <!-- Proto.io script -->
+    <script async src="https://static.proto.io/api/widget-embed.js"></script>
 
 </body>
 
